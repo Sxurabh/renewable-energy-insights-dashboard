@@ -1,0 +1,3886 @@
+"country","Year","renewables_share_energy"
+"Africa",1990,6.2146626
+"Africa",1991,6.5928745
+"Africa",1992,6.2082686
+"Africa",1993,6.0758667
+"Africa",1994,5.958603
+"Africa",1995,5.9614854
+"Africa",1996,6.079956
+"Africa",1997,6.1115522
+"Africa",1998,6.318395
+"Africa",1999,6.490369
+"Africa",2000,6.8128176
+"Africa",2001,7.0239744
+"Africa",2002,7.235608
+"Africa",2003,6.7313123
+"Africa",2004,6.535212
+"Africa",2005,6.6441298
+"Africa",2006,6.7591224
+"Africa",2007,6.67644
+"Africa",2008,6.3756404
+"Africa",2009,6.4545474
+"Africa",2010,6.7359877
+"Africa",2011,6.8191915
+"Africa",2012,6.5544257
+"Africa",2013,6.7026834
+"Africa",2014,6.997135
+"Africa",2015,7.022668
+"Africa",2016,6.932607
+"Africa",2017,7.179438
+"Africa",2018,7.598577
+"Africa",2019,7.84052
+"Africa",2020,8.819855
+"Africa",2021,8.715219
+"Africa",2022,8.9204855
+"Africa",2023,9.215277
+"Africa",2024,9.354101
+"Africa (EI)",1990,6.2146626
+"Africa (EI)",1991,6.5928745
+"Africa (EI)",1992,6.2082686
+"Africa (EI)",1993,6.0758667
+"Africa (EI)",1994,5.958603
+"Africa (EI)",1995,5.9614854
+"Africa (EI)",1996,6.079956
+"Africa (EI)",1997,6.1115522
+"Africa (EI)",1998,6.318395
+"Africa (EI)",1999,6.490369
+"Africa (EI)",2000,6.8128176
+"Africa (EI)",2001,7.0239744
+"Africa (EI)",2002,7.235608
+"Africa (EI)",2003,6.7313123
+"Africa (EI)",2004,6.535212
+"Africa (EI)",2005,6.6441298
+"Africa (EI)",2006,6.7591224
+"Africa (EI)",2007,6.67644
+"Africa (EI)",2008,6.3756404
+"Africa (EI)",2009,6.4545474
+"Africa (EI)",2010,6.7359877
+"Africa (EI)",2011,6.8191915
+"Africa (EI)",2012,6.5544257
+"Africa (EI)",2013,6.7026834
+"Africa (EI)",2014,6.997135
+"Africa (EI)",2015,7.022668
+"Africa (EI)",2016,6.932607
+"Africa (EI)",2017,7.179438
+"Africa (EI)",2018,7.598577
+"Africa (EI)",2019,7.84052
+"Africa (EI)",2020,8.819855
+"Africa (EI)",2021,8.715219
+"Africa (EI)",2022,8.9204855
+"Africa (EI)",2023,9.215277
+"Africa (EI)",2024,9.354101
+"Algeria",1990,0.11906669
+"Algeria",1991,0.26082626
+"Algeria",1992,0.17263989
+"Algeria",1993,0.32912087
+"Algeria",1994,0.15274073
+"Algeria",1995,0.1712212
+"Algeria",1996,0.12100656
+"Algeria",1997,0.06994659
+"Algeria",1998,0.19370805
+"Algeria",1999,0.18108313
+"Algeria",2000,0.05001067
+"Algeria",2001,0.061327934
+"Algeria",2002,0.048507243
+"Algeria",2003,0.2143434
+"Algeria",2004,0.19449507
+"Algeria",2005,0.40765893
+"Algeria",2006,0.15344006
+"Algeria",2007,0.1504157
+"Algeria",2008,0.17631334
+"Algeria",2009,0.20000759
+"Algeria",2010,0.10803143
+"Algeria",2011,0.22096606
+"Algeria",2012,0.21108034
+"Algeria",2013,0.060776502
+"Algeria",2014,0.110372595
+"Algeria",2015,0.09101885
+"Algeria",2016,0.13686113
+"Algeria",2017,0.23208226
+"Algeria",2018,0.27123353
+"Algeria",2019,0.27703846
+"Algeria",2020,0.2825046
+"Algeria",2021,0.23804712
+"Algeria",2022,0.22791375
+"Algeria",2023,0.22667149
+"Algeria",2024,0.24168092
+"Argentina",1990,9.72907
+"Argentina",1991,8.570026
+"Argentina",1992,9.639757
+"Argentina",1993,11.552494
+"Argentina",1994,12.563101
+"Argentina",1995,11.829992
+"Argentina",1996,9.646128
+"Argentina",1997,11.7813425
+"Argentina",1998,10.780106
+"Argentina",1999,8.606011
+"Argentina",2000,11.556684
+"Argentina",2001,15.036309
+"Argentina",2002,15.334841
+"Argentina",2003,13.613283
+"Argentina",2004,11.464811
+"Argentina",2005,12.031582
+"Argentina",2006,12.677819
+"Argentina",2007,10.023992
+"Argentina",2008,9.871803
+"Argentina",2009,11.193401
+"Argentina",2010,11.091996
+"Argentina",2011,10.412118
+"Argentina",2012,9.701297
+"Argentina",2013,10.134094
+"Argentina",2014,10.396154
+"Argentina",2015,10.275299
+"Argentina",2016,9.586403
+"Argentina",2017,10.4453335
+"Argentina",2018,10.823792
+"Argentina",2019,11.416995
+"Argentina",2020,11.833357
+"Argentina",2021,10.9474535
+"Argentina",2022,12.009511
+"Argentina",2023,14.100092
+"Argentina",2024,14.8029785
+"Asia",1990,5.0518737
+"Asia",1991,4.9086103
+"Asia",1992,4.7349057
+"Asia",1993,5.0243816
+"Asia",1994,4.7801275
+"Asia",1995,4.989715
+"Asia",1996,4.75086
+"Asia",1997,4.6363955
+"Asia",1998,4.9079843
+"Asia",1999,4.6748323
+"Asia",2000,4.6494074
+"Asia",2001,4.8165894
+"Asia",2002,4.7241597
+"Asia",2003,4.547672
+"Asia",2004,4.8382006
+"Asia",2005,4.662669
+"Asia",2006,4.8525996
+"Asia",2007,4.825958
+"Asia",2008,5.314891
+"Asia",2009,5.1766567
+"Asia",2010,5.6266966
+"Asia",2011,5.561722
+"Asia",2012,6.123732
+"Asia",2013,6.5937834
+"Asia",2014,7.1452227
+"Asia",2015,7.460905
+"Asia",2016,7.9438753
+"Asia",2017,8.361931
+"Asia",2018,8.861806
+"Asia",2019,9.469624
+"Asia",2020,10.196916
+"Asia",2021,10.664015
+"Asia",2022,11.3970175
+"Asia",2023,11.639132
+"Asia",2024,12.840818
+"Asia Pacific (EI)",1990,5.5978065
+"Asia Pacific (EI)",1991,5.485459
+"Asia Pacific (EI)",1992,5.140153
+"Asia Pacific (EI)",1993,5.321518
+"Asia Pacific (EI)",1994,5.1249
+"Asia Pacific (EI)",1995,5.3663697
+"Asia Pacific (EI)",1996,5.02817
+"Asia Pacific (EI)",1997,4.9460554
+"Asia Pacific (EI)",1998,5.2754397
+"Asia Pacific (EI)",1999,5.0724454
+"Asia Pacific (EI)",2000,5.110704
+"Asia Pacific (EI)",2001,5.3577056
+"Asia Pacific (EI)",2002,5.1713486
+"Asia Pacific (EI)",2003,4.9028373
+"Asia Pacific (EI)",2004,5.2052226
+"Asia Pacific (EI)",2005,5.04304
+"Asia Pacific (EI)",2006,5.251553
+"Asia Pacific (EI)",2007,5.2841787
+"Asia Pacific (EI)",2008,6.002861
+"Asia Pacific (EI)",2009,5.843994
+"Asia Pacific (EI)",2010,6.2801642
+"Asia Pacific (EI)",2011,6.255693
+"Asia Pacific (EI)",2012,6.889021
+"Asia Pacific (EI)",2013,7.4414215
+"Asia Pacific (EI)",2014,8.202232
+"Asia Pacific (EI)",2015,8.490678
+"Asia Pacific (EI)",2016,9.073095
+"Asia Pacific (EI)",2017,9.544332
+"Asia Pacific (EI)",2018,10.123153
+"Asia Pacific (EI)",2019,10.596511
+"Asia Pacific (EI)",2020,11.515578
+"Asia Pacific (EI)",2021,12.157434
+"Asia Pacific (EI)",2022,13.0057535
+"Asia Pacific (EI)",2023,13.212713
+"Asia Pacific (EI)",2024,14.513296
+"Australia",1990,4.137041
+"Australia",1991,4.3940225
+"Australia",1992,4.3885193
+"Australia",1993,4.406949
+"Australia",1994,4.1957083
+"Australia",1995,4.001723
+"Australia",1996,3.9997537
+"Australia",1997,3.9143484
+"Australia",1998,3.8129077
+"Australia",1999,3.7857795
+"Australia",2000,3.7645082
+"Australia",2001,3.655366
+"Australia",2002,3.7108545
+"Australia",2003,3.7965071
+"Australia",2004,3.8290668
+"Australia",2005,4.095098
+"Australia",2006,4.023526
+"Australia",2007,3.7864707
+"Australia",2008,3.499129
+"Australia",2009,3.7221737
+"Australia",2010,4.0876446
+"Australia",2011,5.3919606
+"Australia",2012,5.399917
+"Australia",2013,6.1726875
+"Australia",2014,5.6627235
+"Australia",2015,5.9553065
+"Australia",2016,6.7850986
+"Australia",2017,6.3734684
+"Australia",2018,7.847639
+"Australia",2019,8.40721
+"Australia",2020,10.29223
+"Australia",2021,12.282586
+"Australia",2022,13.247022
+"Australia",2023,14.323447
+"Australia",2024,14.733206
+"Austria",1990,27.76444
+"Austria",1991,26.52839
+"Austria",1992,29.827892
+"Austria",1993,30.718403
+"Austria",1994,30.027718
+"Austria",1995,30.140165
+"Austria",1996,27.074467
+"Austria",1997,28.264048
+"Austria",1998,28.531652
+"Austria",1999,30.66756
+"Austria",2000,31.26769
+"Austria",2001,29.411423
+"Austria",2002,28.923092
+"Austria",2003,24.120514
+"Austria",2004,26.119173
+"Austria",2005,26.316614
+"Austria",2006,26.989784
+"Austria",2007,29.094082
+"Austria",2008,29.577007
+"Austria",2009,32.5476
+"Austria",2010,30.113115
+"Austria",2011,29.15819
+"Austria",2012,34.49825
+"Austria",2013,34.02354
+"Austria",2014,35.016697
+"Austria",2015,33.051586
+"Austria",2016,34.026432
+"Austria",2017,33.21268
+"Austria",2018,33.13921
+"Austria",2019,34.18949
+"Austria",2020,36.879936
+"Austria",2021,34.638123
+"Austria",2022,35.134083
+"Austria",2023,40.022125
+"Austria",2024,43.347355
+"Azerbaijan",1990,1.7696381
+"Azerbaijan",1991,1.9544965
+"Azerbaijan",1992,2.2671876
+"Azerbaijan",1993,3.6319344
+"Azerbaijan",1994,2.9807847
+"Azerbaijan",1995,2.6951706
+"Azerbaijan",1996,3.2475834
+"Azerbaijan",1997,3.778814
+"Azerbaijan",1998,4.2910814
+"Azerbaijan",1999,3.3179066
+"Azerbaijan",2000,3.2334957
+"Azerbaijan",2001,2.8298752
+"Azerbaijan",2002,4.4186716
+"Azerbaijan",2003,4.963229
+"Azerbaijan",2004,4.8662996
+"Azerbaijan",2005,4.8642797
+"Azerbaijan",2006,4.113798
+"Azerbaijan",2007,4.172744
+"Azerbaijan",2008,3.9057946
+"Azerbaijan",2009,4.6727557
+"Azerbaijan",2010,7.0208406
+"Azerbaijan",2011,4.771241
+"Azerbaijan",2012,3.13323
+"Azerbaijan",2013,2.6123571
+"Azerbaijan",2014,2.2877438
+"Azerbaijan",2015,2.5956335
+"Azerbaijan",2016,3.1447477
+"Azerbaijan",2017,2.8683722
+"Azerbaijan",2018,2.8174486
+"Azerbaijan",2019,2.4512126
+"Azerbaijan",2020,1.7904454
+"Azerbaijan",2021,1.9303348
+"Azerbaijan",2022,2.1882486
+"Azerbaijan",2023,2.2942455
+"Azerbaijan",2024,4.303142
+"Bangladesh",1990,3.331917
+"Bangladesh",1991,3.2737448
+"Bangladesh",1992,2.850549
+"Bangladesh",1993,1.9793183
+"Bangladesh",1994,2.5986552
+"Bangladesh",1995,0.9653535
+"Bangladesh",1996,1.831692
+"Bangladesh",1997,1.6959825
+"Bangladesh",1998,1.916027
+"Bangladesh",1999,1.8243144
+"Bangladesh",2000,1.6248266
+"Bangladesh",2001,1.8306202
+"Bangladesh",2002,1.4535722
+"Bangladesh",2003,1.3526305
+"Bangladesh",2004,1.2325705
+"Bangladesh",2005,1.1229804
+"Bangladesh",2006,1.0508331
+"Bangladesh",2007,1.0368377
+"Bangladesh",2008,1.2242036
+"Bangladesh",2009,0.5131713
+"Bangladesh",2010,0.8342272
+"Bangladesh",2011,0.99530375
+"Bangladesh",2012,0.84601665
+"Bangladesh",2013,0.8128067
+"Bangladesh",2014,0.68606883
+"Bangladesh",2015,0.7931762
+"Bangladesh",2016,0.7402721
+"Bangladesh",2017,0.8568776
+"Bangladesh",2018,0.7081168
+"Bangladesh",2019,0.6395678
+"Bangladesh",2020,0.65289867
+"Bangladesh",2021,0.6705762
+"Bangladesh",2022,0.6926618
+"Bangladesh",2023,0.7899922
+"Bangladesh",2024,1.0953214
+"Belarus",1990,0.011922588
+"Belarus",1991,0.010754932
+"Belarus",1992,0.011661243
+"Belarus",1993,0.015620828
+"Belarus",1994,0.0187022
+"Belarus",1995,0.02215995
+"Belarus",1996,0.017284459
+"Belarus",1997,0.022427503
+"Belarus",1998,0.03057955
+"Belarus",1999,0.02133183
+"Belarus",2000,0.029412428
+"Belarus",2001,0.033429142
+"Belarus",2002,0.030978968
+"Belarus",2003,0.02997258
+"Belarus",2004,0.03233662
+"Belarus",2005,0.035009693
+"Belarus",2006,0.033930745
+"Belarus",2007,0.047331303
+"Belarus",2008,0.097415656
+"Belarus",2009,0.19278473
+"Belarus",2010,0.25240967
+"Belarus",2011,0.24433987
+"Belarus",2012,0.25738886
+"Belarus",2013,0.30522504
+"Belarus",2014,0.29525957
+"Belarus",2015,0.3455565
+"Belarus",2016,0.4050693
+"Belarus",2017,0.72615576
+"Belarus",2018,0.59601754
+"Belarus",2019,0.7227649
+"Belarus",2020,0.94336146
+"Belarus",2021,1.1064148
+"Belarus",2022,1.1474723
+"Belarus",2023,1.0273277
+"Belarus",2024,0.96882594
+"Belgium",1990,0.2649906
+"Belgium",1991,0.24876085
+"Belgium",1992,0.2827966
+"Belgium",1993,0.23757039
+"Belgium",1994,0.26485226
+"Belgium",1995,0.29377463
+"Belgium",1996,0.23443435
+"Belgium",1997,0.24066356
+"Belgium",1998,0.30483082
+"Belgium",1999,0.34840837
+"Belgium",2000,0.4183467
+"Belgium",2001,0.4340048
+"Belgium",2002,0.4648603
+"Belgium",2003,0.473226
+"Belgium",2004,0.58898455
+"Belgium",2005,0.84397316
+"Belgium",2006,1.1779006
+"Belgium",2007,1.3781304
+"Belgium",2008,1.7182359
+"Belgium",2009,2.494163
+"Belgium",2010,3.1254456
+"Belgium",2011,3.9831882
+"Belgium",2012,4.9963574
+"Belgium",2013,5.279734
+"Belgium",2014,5.937734
+"Belgium",2015,6.5506725
+"Belgium",2016,6.264496
+"Belgium",2017,6.8188543
+"Belgium",2018,7.2616305
+"Belgium",2019,7.769982
+"Belgium",2020,10.456639
+"Belgium",2021,9.202282
+"Belgium",2022,10.436024
+"Belgium",2023,12.149441
+"Belgium",2024,11.45436
+"Brazil",1990,43.2668
+"Brazil",1991,43.701324
+"Brazil",1992,44.017376
+"Brazil",1993,44.21697
+"Brazil",1994,43.932064
+"Brazil",1995,43.3731
+"Brazil",1996,42.834415
+"Brazil",1997,42.147533
+"Brazil",1998,42.0326
+"Brazil",1999,41.78563
+"Brazil",2000,40.939064
+"Brazil",2001,37.18076
+"Brazil",2002,38.819298
+"Brazil",2003,40.449265
+"Brazil",2004,40.44407
+"Brazil",2005,41.269844
+"Brazil",2006,41.14651
+"Brazil",2007,42.28473
+"Brazil",2008,41.389286
+"Brazil",2009,44.156986
+"Brazil",2010,42.505264
+"Brazil",2011,42.377716
+"Brazil",2012,40.25937
+"Brazil",2013,38.40652
+"Brazil",2014,37.56644
+"Brazil",2015,38.708134
+"Brazil",2016,41.53582
+"Brazil",2017,41.293602
+"Brazil",2018,44.12647
+"Brazil",2019,45.177975
+"Brazil",2020,47.115757
+"Brazil",2021,43.67331
+"Brazil",2022,47.659924
+"Brazil",2023,48.949894
+"Brazil",2024,49.61598
+"Bulgaria",1990,1.4007479
+"Bulgaria",1991,2.4100642
+"Bulgaria",1992,2.1483028
+"Bulgaria",1993,1.891392
+"Bulgaria",1994,1.4263549
+"Bulgaria",1995,2.2264106
+"Bulgaria",1996,2.967801
+"Bulgaria",1997,2.9603994
+"Bulgaria",1998,3.4685338
+"Bulgaria",1999,3.5162685
+"Bulgaria",2000,3.386313
+"Bulgaria",2001,2.0436325
+"Bulgaria",2002,2.6811574
+"Bulgaria",2003,3.6460853
+"Bulgaria",2004,3.9311848
+"Bulgaria",2005,4.937457
+"Bulgaria",2006,4.7382336
+"Bulgaria",2007,3.3067698
+"Bulgaria",2008,3.39123
+"Bulgaria",2009,4.8456135
+"Bulgaria",2010,7.257586
+"Bulgaria",2011,4.618476
+"Bulgaria",2012,6.8606396
+"Bulgaria",2013,9.693577
+"Bulgaria",2014,9.633595
+"Bulgaria",2015,10.786984
+"Bulgaria",2016,9.370144
+"Bulgaria",2017,8.073083
+"Bulgaria",2018,12.096144
+"Bulgaria",2019,10.380223
+"Bulgaria",2020,11.1219
+"Bulgaria",2021,13.231414
+"Bulgaria",2022,12.026074
+"Bulgaria",2023,14.287648
+"Bulgaria",2024,16.42459
+"CIS (EI)",1990,4.618243
+"CIS (EI)",1991,4.711839
+"CIS (EI)",1992,5.0422387
+"CIS (EI)",1993,5.616564
+"CIS (EI)",1994,6.2616076
+"CIS (EI)",1995,6.4786725
+"CIS (EI)",1996,6.04037
+"CIS (EI)",1997,6.3701663
+"CIS (EI)",1998,6.40638
+"CIS (EI)",1999,6.4920664
+"CIS (EI)",2000,6.5725756
+"CIS (EI)",2001,6.6886673
+"CIS (EI)",2002,6.3469014
+"CIS (EI)",2003,6.1407967
+"CIS (EI)",2004,6.58099
+"CIS (EI)",2005,6.452004
+"CIS (EI)",2006,6.1411653
+"CIS (EI)",2007,6.1843214
+"CIS (EI)",2008,5.594048
+"CIS (EI)",2009,6.119782
+"CIS (EI)",2010,5.8005257
+"CIS (EI)",2011,5.429358
+"CIS (EI)",2012,5.3225293
+"CIS (EI)",2013,5.7884808
+"CIS (EI)",2014,5.5012345
+"CIS (EI)",2015,5.480024
+"CIS (EI)",2016,5.8256507
+"CIS (EI)",2017,5.857326
+"CIS (EI)",2018,5.7034936
+"CIS (EI)",2019,5.8386755
+"CIS (EI)",2020,6.4069247
+"CIS (EI)",2021,6.277559
+"CIS (EI)",2022,5.787459
+"CIS (EI)",2023,5.8570175
+"CIS (EI)",2024,6.1563888
+"Canada",1990,28.251604
+"Canada",1991,29.25226
+"Canada",1992,29.261963
+"Canada",1993,29.209166
+"Canada",1994,28.705437
+"Canada",1995,28.664146
+"Canada",1996,29.628513
+"Canada",1997,29.04424
+"Canada",1998,28.089998
+"Canada",1999,28.363531
+"Canada",2000,28.536217
+"Canada",2001,27.032011
+"Canada",2002,27.334934
+"Canada",2003,26.020357
+"Canada",2004,25.700287
+"Canada",2005,27.04255
+"Canada",2006,27.207588
+"Canada",2007,26.529997
+"Canada",2008,27.374023
+"Canada",2009,27.993202
+"Canada",2010,26.566547
+"Canada",2011,27.419373
+"Canada",2012,27.86286
+"Canada",2013,27.744926
+"Canada",2014,27.025665
+"Canada",2015,27.733406
+"Canada",2016,28.45969
+"Canada",2017,28.649637
+"Canada",2018,27.663893
+"Canada",2019,27.406925
+"Canada",2020,29.457256
+"Canada",2021,29.113104
+"Canada",2022,29.496677
+"Canada",2023,27.857828
+"Canada",2024,27.156591
+"Central America (EI)",1990,30.948334
+"Central America (EI)",1991,28.807001
+"Central America (EI)",1992,26.271551
+"Central America (EI)",1993,26.61387
+"Central America (EI)",1994,24.302576
+"Central America (EI)",1995,22.374317
+"Central America (EI)",1996,24.96223
+"Central America (EI)",1997,23.210482
+"Central America (EI)",1998,20.628695
+"Central America (EI)",1999,24.133295
+"Central America (EI)",2000,24.410912
+"Central America (EI)",2001,21.769108
+"Central America (EI)",2002,22.500504
+"Central America (EI)",2003,22.4827
+"Central America (EI)",2004,22.929722
+"Central America (EI)",2005,24.206879
+"Central America (EI)",2006,24.102074
+"Central America (EI)",2007,23.481173
+"Central America (EI)",2008,24.79353
+"Central America (EI)",2009,24.645626
+"Central America (EI)",2010,26.456287
+"Central America (EI)",2011,25.773012
+"Central America (EI)",2012,26.955608
+"Central America (EI)",2013,26.686745
+"Central America (EI)",2014,26.686481
+"Central America (EI)",2015,26.20444
+"Central America (EI)",2016,26.271667
+"Central America (EI)",2017,27.962503
+"Central America (EI)",2018,28.609749
+"Central America (EI)",2019,24.957823
+"Central America (EI)",2020,31.892794
+"Central America (EI)",2021,31.028156
+"Central America (EI)",2022,30.39083
+"Central America (EI)",2023,26.668772
+"Central America (EI)",2024,27.344881
+"Chile",1990,18.080673
+"Chile",1991,23.018364
+"Chile",1992,27.186602
+"Chile",1993,26.38023
+"Chile",1994,24.851076
+"Chile",1995,24.920815
+"Chile",1996,21.549679
+"Chile",1997,20.921423
+"Chile",1998,17.19609
+"Chile",1999,14.537981
+"Chile",2000,18.856054
+"Chile",2001,21.060808
+"Chile",2002,21.83407
+"Chile",2003,21.011951
+"Chile",2004,18.553965
+"Chile",2005,21.082777
+"Chile",2006,21.91458
+"Chile",2007,18.572256
+"Chile",2008,20.64716
+"Chile",2009,21.975939
+"Chile",2010,18.941454
+"Chile",2011,17.671747
+"Chile",2012,17.975521
+"Chile",2013,18.024372
+"Chile",2014,19.519339
+"Chile",2015,21.000135
+"Chile",2016,19.341196
+"Chile",2017,21.426294
+"Chile",2018,23.426443
+"Chile",2019,22.540928
+"Chile",2020,24.873665
+"Chile",2021,23.421082
+"Chile",2022,26.07927
+"Chile",2023,30.346954
+"Chile",2024,32.254448
+"China",1990,4.450452
+"China",1991,4.168098
+"China",1992,4.1569242
+"China",1993,4.4829965
+"China",1994,4.667642
+"China",1995,5.2390656
+"China",1996,4.848928
+"China",1997,5.0568953
+"China",1998,5.1190677
+"China",1999,4.8925734
+"China",2000,5.3356876
+"China",2001,6.2514067
+"China",2002,5.921867
+"China",2003,5.001339
+"China",2004,5.289435
+"China",2005,5.2387414
+"China",2006,5.266756
+"China",2007,5.4065294
+"China",2008,6.8724213
+"China",2009,6.559855
+"China",2010,7.1947036
+"China",2011,6.6967645
+"China",2012,8.06756
+"China",2013,8.473828
+"China",2014,9.689675
+"China",2015,10.27758
+"China",2016,11.113145
+"China",2017,11.665639
+"China",2018,12.224382
+"China",2019,12.785955
+"China",2020,13.395745
+"China",2021,14.195035
+"China",2022,15.217977
+"China",2023,15.505326
+"China",2024,17.472376
+"Colombia",1990,31.201069
+"Colombia",1991,30.63062
+"Colombia",1992,23.80165
+"Colombia",1993,27.368816
+"Colombia",1994,29.116013
+"Colombia",1995,28.41556
+"Colombia",1996,30.151009
+"Colombia",1997,26.431786
+"Colombia",1998,25.56455
+"Colombia",1999,29.999926
+"Colombia",2000,28.239262
+"Colombia",2001,28.57212
+"Colombia",2002,30.439077
+"Colombia",2003,31.6404
+"Colombia",2004,31.689388
+"Colombia",2005,32.782623
+"Colombia",2006,30.936024
+"Colombia",2007,31.460014
+"Colombia",2008,31.2667
+"Colombia",2009,28.770914
+"Colombia",2010,27.403812
+"Colombia",2011,31.370747
+"Colombia",2012,29.02311
+"Colombia",2013,26.266777
+"Colombia",2014,25.307676
+"Colombia",2015,25.544643
+"Colombia",2016,24.362503
+"Colombia",2017,28.787233
+"Colombia",2018,27.908209
+"Colombia",2019,26.753754
+"Colombia",2020,27.110657
+"Colombia",2021,29.665802
+"Colombia",2022,28.383904
+"Colombia",2023,27.397959
+"Colombia",2024,26.092882
+"Croatia",1990,10.902699
+"Croatia",1991,18.574337
+"Croatia",1992,15.173098
+"Croatia",1993,15.263619
+"Croatia",1994,18.018705
+"Croatia",1995,18.212101
+"Croatia",1996,23.55773
+"Croatia",1997,17.617416
+"Croatia",1998,17.157148
+"Croatia",1999,20.219551
+"Croatia",2000,18.793608
+"Croatia",2001,19.78455
+"Croatia",2002,15.939727
+"Croatia",2003,14.114472
+"Croatia",2004,18.937948
+"Croatia",2005,17.569077
+"Croatia",2006,16.644176
+"Croatia",2007,11.745396
+"Croatia",2008,14.469628
+"Croatia",2009,18.758879
+"Croatia",2010,22.715929
+"Croatia",2011,14.713418
+"Croatia",2012,16.074078
+"Croatia",2013,25.559444
+"Croatia",2014,27.249052
+"Croatia",2015,21.650604
+"Croatia",2016,22.794458
+"Croatia",2017,19.345747
+"Croatia",2018,25.935795
+"Croatia",2019,23.269533
+"Croatia",2020,25.033134
+"Croatia",2021,28.682543
+"Croatia",2022,25.052818
+"Croatia",2023,29.586359
+"Croatia",2024,27.778172
+"Cyprus",1990,0
+"Cyprus",1991,0
+"Cyprus",1992,0
+"Cyprus",1993,0
+"Cyprus",1994,0
+"Cyprus",1995,0
+"Cyprus",1996,0
+"Cyprus",1997,0
+"Cyprus",1998,0
+"Cyprus",1999,0
+"Cyprus",2000,0
+"Cyprus",2001,0
+"Cyprus",2002,0
+"Cyprus",2003,0
+"Cyprus",2004,0.006551989
+"Cyprus",2005,0.007075224
+"Cyprus",2006,0.011951511
+"Cyprus",2007,0.05771375
+"Cyprus",2008,0.58794963
+"Cyprus",2009,0.7729085
+"Cyprus",2010,1.0948863
+"Cyprus",2011,1.9997485
+"Cyprus",2012,2.7710598
+"Cyprus",2013,3.680128
+"Cyprus",2014,3.3686066
+"Cyprus",2015,3.9673636
+"Cyprus",2016,3.7939315
+"Cyprus",2017,3.750614
+"Cyprus",2018,3.9837713
+"Cyprus",2019,4.4319463
+"Cyprus",2020,6.387985
+"Cyprus",2021,7.3875527
+"Cyprus",2022,7.765375
+"Cyprus",2023,9.266293
+"Cyprus",2024,10.795388
+"Czechia",1990,0.5908929
+"Czechia",1991,0.608996
+"Czechia",1992,0.81210715
+"Czechia",1993,0.9098919
+"Czechia",1994,1.1043082
+"Czechia",1995,1.4452564
+"Czechia",1996,1.322692
+"Czechia",1997,1.3793235
+"Czechia",1998,1.3100818
+"Czechia",1999,1.628961
+"Czechia",2000,1.5250733
+"Czechia",2001,1.6182144
+"Czechia",2002,1.8836788
+"Czechia",2003,1.1732385
+"Czechia",2004,1.5377343
+"Czechia",2005,1.6945395
+"Czechia",2006,1.9016553
+"Czechia",2007,1.8866404
+"Czechia",2008,2.3114047
+"Czechia",2009,3.1409461
+"Czechia",2010,3.7586548
+"Czechia",2011,4.7454557
+"Czechia",2012,5.199206
+"Czechia",2013,6.0187893
+"Czechia",2014,6.2313395
+"Czechia",2015,6.439675
+"Czechia",2016,6.5016036
+"Czechia",2017,6.312411
+"Czechia",2018,6.1787386
+"Czechia",2019,6.7436805
+"Czechia",2020,7.5385566
+"Czechia",2021,7.275117
+"Czechia",2022,7.4957795
+"Czechia",2023,8.385919
+"Czechia",2024,9.745923
+"Denmark",1990,1.2036245
+"Denmark",1991,1.3905741
+"Denmark",1992,1.949155
+"Denmark",1993,2.2609122
+"Denmark",1994,2.0341423
+"Denmark",1995,2.2090013
+"Denmark",1996,2.0933995
+"Denmark",1997,3.227925
+"Denmark",1998,4.456286
+"Denmark",1999,5.143456
+"Denmark",2000,6.7593865
+"Denmark",2001,7.064914
+"Denmark",2002,8.196981
+"Denmark",2003,9.054266
+"Denmark",2004,11.240494
+"Denmark",2005,11.955465
+"Denmark",2006,10.242425
+"Denmark",2007,11.953178
+"Denmark",2008,12.095338
+"Denmark",2009,12.843573
+"Denmark",2010,14.972631
+"Denmark",2011,18.524874
+"Denmark",2012,21.23196
+"Denmark",2013,21.8564
+"Denmark",2014,25.305271
+"Denmark",2015,27.024797
+"Denmark",2016,26.005054
+"Denmark",2017,30.501415
+"Denmark",2018,29.379833
+"Denmark",2019,30.183018
+"Denmark",2020,34.67249
+"Denmark",2021,38.80951
+"Denmark",2022,40.791603
+"Denmark",2023,40.938076
+"Denmark",2024,41.722164
+"Eastern Africa (EI)",1990,25.453257
+"Eastern Africa (EI)",1991,27.224466
+"Eastern Africa (EI)",1992,25.304619
+"Eastern Africa (EI)",1993,24.398579
+"Eastern Africa (EI)",1994,24.450039
+"Eastern Africa (EI)",1995,24.749449
+"Eastern Africa (EI)",1996,24.897598
+"Eastern Africa (EI)",1997,24.65557
+"Eastern Africa (EI)",1998,29.897604
+"Eastern Africa (EI)",1999,30.676096
+"Eastern Africa (EI)",2000,32.443512
+"Eastern Africa (EI)",2001,32.970554
+"Eastern Africa (EI)",2002,34.831417
+"Eastern Africa (EI)",2003,35.697453
+"Eastern Africa (EI)",2004,34.10935
+"Eastern Africa (EI)",2005,33.386845
+"Eastern Africa (EI)",2006,33.87697
+"Eastern Africa (EI)",2007,34.61566
+"Eastern Africa (EI)",2008,34.321175
+"Eastern Africa (EI)",2009,33.86066
+"Eastern Africa (EI)",2010,34.54621
+"Eastern Africa (EI)",2011,33.99331
+"Eastern Africa (EI)",2012,33.692783
+"Eastern Africa (EI)",2013,32.89189
+"Eastern Africa (EI)",2014,32.44998
+"Eastern Africa (EI)",2015,31.802763
+"Eastern Africa (EI)",2016,30.530235
+"Eastern Africa (EI)",2017,29.673798
+"Eastern Africa (EI)",2018,29.815874
+"Eastern Africa (EI)",2019,29.572865
+"Eastern Africa (EI)",2020,32.73685
+"Eastern Africa (EI)",2021,31.929924
+"Eastern Africa (EI)",2022,32.007313
+"Eastern Africa (EI)",2023,31.561584
+"Eastern Africa (EI)",2024,31.872005
+"Ecuador",1990,17.295769
+"Ecuador",1991,15.92673
+"Ecuador",1992,15.683736
+"Ecuador",1993,17.698473
+"Ecuador",1994,18.393936
+"Ecuador",1995,15.267173
+"Ecuador",1996,16.502287
+"Ecuador",1997,15.246078
+"Ecuador",1998,15.100917
+"Ecuador",1999,18.298618
+"Ecuador",2000,20.573494
+"Ecuador",2001,18.73716
+"Ecuador",2002,20.06039
+"Ecuador",2003,18.571856
+"Ecuador",2004,17.818209
+"Ecuador",2005,15.750063
+"Ecuador",2006,15.434831
+"Ecuador",2007,18.627731
+"Ecuador",2008,21.548954
+"Ecuador",2009,18.011255
+"Ecuador",2010,15.137318
+"Ecuador",2011,18.274744
+"Ecuador",2012,18.909204
+"Ecuador",2013,16.518951
+"Ecuador",2014,16.450544
+"Ecuador",2015,18.755653
+"Ecuador",2016,22.60093
+"Ecuador",2017,27.195576
+"Ecuador",2018,26.235897
+"Ecuador",2019,30.381714
+"Ecuador",2020,34.623642
+"Ecuador",2021,31.037851
+"Ecuador",2022,28.426424
+"Ecuador",2023,27.974184
+"Ecuador",2024,25.357561
+"Egypt",1990,7.097406
+"Egypt",1991,6.9793625
+"Egypt",1992,6.9645247
+"Egypt",1993,7.168096
+"Egypt",1994,7.245232
+"Egypt",1995,7.133508
+"Egypt",1996,6.9465804
+"Egypt",1997,6.8348336
+"Egypt",1998,6.7498574
+"Egypt",1999,6.991505
+"Egypt",2000,6.9980617
+"Egypt",2001,6.824026
+"Egypt",2002,6.4054775
+"Egypt",2003,5.5988307
+"Egypt",2004,5.316899
+"Egypt",2005,5.0728197
+"Egypt",2006,4.875579
+"Egypt",2007,5.0605507
+"Egypt",2008,5.1005898
+"Egypt",2009,4.5248094
+"Egypt",2010,4.1977415
+"Egypt",2011,4.063366
+"Egypt",2012,3.9203088
+"Egypt",2013,3.909255
+"Egypt",2014,3.9126637
+"Egypt",2015,4.0617194
+"Egypt",2016,3.869806
+"Egypt",2017,3.6274722
+"Egypt",2018,3.8320756
+"Egypt",2019,4.638214
+"Egypt",2020,5.968184
+"Egypt",2021,5.9075103
+"Egypt",2022,5.687224
+"Egypt",2023,5.803628
+"Egypt",2024,5.778012
+"Estonia",1990,0
+"Estonia",1991,0
+"Estonia",1992,0
+"Estonia",1993,0
+"Estonia",1994,0
+"Estonia",1995,0.03016169
+"Estonia",1996,0.023669971
+"Estonia",1997,0.03844557
+"Estonia",1998,0.064285405
+"Estonia",1999,0.09627783
+"Estonia",2000,0.33475995
+"Estonia",2001,0.15419663
+"Estonia",2002,0.17976718
+"Estonia",2003,0.21134767
+"Estonia",2004,0.27796856
+"Estonia",2005,0.47721928
+"Estonia",2006,0.58349687
+"Estonia",2007,0.5681164
+"Estonia",2008,0.87104774
+"Estonia",2009,2.7223704
+"Estonia",2010,4.3801155
+"Estonia",2011,4.846749
+"Estonia",2012,5.9997787
+"Estonia",2013,4.70338
+"Estonia",2014,5.622078
+"Estonia",2015,6.6583357
+"Estonia",2016,6.5080376
+"Estonia",2017,6.8996964
+"Estonia",2018,7.798443
+"Estonia",2019,10.376287
+"Estonia",2020,15.351766
+"Estonia",2021,14.29714
+"Estonia",2022,13.240793
+"Estonia",2023,14.305354
+"Estonia",2024,17.946262
+"Europe",1990,5.2708282
+"Europe",1991,5.4541254
+"Europe",1992,5.8183146
+"Europe",1993,6.187879
+"Europe",1994,6.573301
+"Europe",1995,6.6397862
+"Europe",1996,6.2130218
+"Europe",1997,6.615231
+"Europe",1998,6.891596
+"Europe",1999,7.0833735
+"Europe",2000,7.390042
+"Europe",2001,7.4339814
+"Europe",2002,6.9592547
+"Europe",2003,6.6063952
+"Europe",2004,7.1633973
+"Europe",2005,7.372327
+"Europe",2006,7.396659
+"Europe",2007,7.90674
+"Europe",2008,8.393365
+"Europe",2009,9.24425
+"Europe",2010,9.566915
+"Europe",2011,9.525666
+"Europe",2012,10.570382
+"Europe",2013,11.502042
+"Europe",2014,12.1161785
+"Europe",2015,12.420864
+"Europe",2016,12.540347
+"Europe",2017,12.543231
+"Europe",2018,13.224717
+"Europe",2019,13.694824
+"Europe",2020,15.82459
+"Europe",2021,15.461004
+"Europe",2022,15.607427
+"Europe",2023,17.243277
+"Europe",2024,17.848698
+"Europe (EI)",1990,5.766267
+"Europe (EI)",1991,5.9787526
+"Europe (EI)",1992,6.3894496
+"Europe (EI)",1993,6.781287
+"Europe (EI)",1994,7.030475
+"Europe (EI)",1995,7.013335
+"Europe (EI)",1996,6.669759
+"Europe (EI)",1997,7.0273156
+"Europe (EI)",1998,7.378174
+"Europe (EI)",1999,7.5428452
+"Europe (EI)",2000,7.8683596
+"Europe (EI)",2001,7.7959366
+"Europe (EI)",2002,7.416496
+"Europe (EI)",2003,7.081599
+"Europe (EI)",2004,7.695845
+"Europe (EI)",2005,7.9220695
+"Europe (EI)",2006,8.06922
+"Europe (EI)",2007,8.597437
+"Europe (EI)",2008,9.352512
+"Europe (EI)",2009,10.294636
+"Europe (EI)",2010,11.041663
+"Europe (EI)",2011,11.163349
+"Europe (EI)",2012,12.595328
+"Europe (EI)",2013,13.639269
+"Europe (EI)",2014,14.403294
+"Europe (EI)",2015,15.032457
+"Europe (EI)",2016,15.097878
+"Europe (EI)",2017,14.99377
+"Europe (EI)",2018,16.108925
+"Europe (EI)",2019,17.019737
+"Europe (EI)",2020,19.573263
+"Europe (EI)",2021,18.891373
+"Europe (EI)",2022,19.817223
+"Europe (EI)",2023,22.195723
+"Europe (EI)",2024,23.189604
+"European Union (27)",1990,4.8011656
+"European Union (27)",1991,5.0661964
+"European Union (27)",1992,5.3822
+"European Union (27)",1993,5.596062
+"European Union (27)",1994,5.7974973
+"European Union (27)",1995,5.6851482
+"European Union (27)",1996,5.5096626
+"European Union (27)",1997,5.8140907
+"European Union (27)",1998,6.0492444
+"European Union (27)",1999,6.1186595
+"European Union (27)",2000,6.501445
+"European Union (27)",2001,6.775738
+"European Union (27)",2002,6.111841
+"European Union (27)",2003,6.071059
+"European Union (27)",2004,6.6322436
+"European Union (27)",2005,6.686514
+"European Union (27)",2006,7.0833015
+"European Union (27)",2007,7.7138677
+"European Union (27)",2008,8.495009
+"European Union (27)",2009,9.598104
+"European Union (27)",2010,10.4756975
+"European Union (27)",2011,10.687445
+"European Union (27)",2012,12.131416
+"European Union (27)",2013,13.20789
+"European Union (27)",2014,14.117626
+"European Union (27)",2015,14.2211075
+"European Union (27)",2016,14.232685
+"European Union (27)",2017,14.029173
+"European Union (27)",2018,15.0978155
+"European Union (27)",2019,15.812423
+"European Union (27)",2020,18.447502
+"European Union (27)",2021,17.811625
+"European Union (27)",2022,18.600784
+"European Union (27)",2023,21.294298
+"European Union (27)",2024,22.290787
+"Finland",1990,14.470432
+"Finland",1991,15.99359
+"Finland",1992,17.64751
+"Finland",1993,17.066778
+"Finland",1994,15.338213
+"Finland",1995,17.208223
+"Finland",1996,14.945333
+"Finland",1997,16.852652
+"Finland",1998,19.755129
+"Finland",1999,17.504028
+"Finland",2000,19.162657
+"Finland",2001,17.237999
+"Finland",2002,15.842106
+"Finland",2003,14.247586
+"Finland",2004,18.99897
+"Finland",2005,19.044958
+"Finland",2006,17.117256
+"Finland",2007,18.351383
+"Finland",2008,21.794773
+"Finland",2009,18.615065
+"Finland",2010,19.122496
+"Finland",2011,20.477798
+"Finland",2012,24.392008
+"Finland",2013,22.1497
+"Finland",2014,24.194855
+"Finland",2015,27.515348
+"Finland",2016,25.935268
+"Finland",2017,27.990192
+"Finland",2018,27.990328
+"Finland",2019,28.590925
+"Finland",2020,32.588146
+"Finland",2021,35.03598
+"Finland",2022,34.89674
+"Finland",2023,35.888016
+"Finland",2024,38.894417
+"France",1990,5.9362874
+"France",1991,5.9408174
+"France",1992,7.0186033
+"France",1993,6.6240153
+"France",1994,8.12928
+"France",1995,7.3958673
+"France",1996,6.5060716
+"France",1997,6.447103
+"France",1998,6.119823
+"France",1999,7.020459
+"France",2000,6.4093084
+"France",2001,7.0722537
+"France",2002,5.8793926
+"France",2003,5.674738
+"France",2004,5.6835847
+"France",2005,5.121812
+"France",2006,5.7024584
+"France",2007,6.3559203
+"France",2008,7.318919
+"France",2009,7.4089875
+"France",2010,7.881733
+"France",2011,6.9299383
+"France",2012,8.714423
+"France",2013,9.857446
+"France",2014,9.884686
+"France",2015,9.568417
+"France",2016,10.361992
+"France",2017,9.803202
+"France",2018,11.513117
+"France",2019,11.753885
+"France",2020,13.971604
+"France",2021,12.914199
+"France",2022,13.725916
+"France",2023,15.866664
+"France",2024,16.46539
+"Germany",1990,1.2639512
+"Germany",1991,1.2020515
+"Germany",1992,1.4379585
+"Germany",1993,1.4977083
+"Germany",1994,1.646116
+"Germany",1995,1.7878119
+"Germany",1996,1.5931067
+"Germany",1997,1.7087605
+"Germany",1998,1.8677492
+"Germany",1999,2.1120107
+"Germany",2000,2.7381492
+"Germany",2001,2.7976856
+"Germany",2002,3.365451
+"Germany",2003,3.4766617
+"Germany",2004,4.315671
+"Germany",2005,4.9923463
+"Germany",2006,5.7970138
+"Germany",2007,7.369626
+"Germany",2008,7.5227284
+"Germany",2009,8.146815
+"Germany",2010,8.465436
+"Germany",2011,10.167927
+"Germany",2012,11.459871
+"Germany",2013,11.603203
+"Germany",2014,12.839898
+"Germany",2015,14.318381
+"Germany",2016,14.101188
+"Germany",2017,15.3877945
+"Germany",2018,16.262758
+"Germany",2019,17.811209
+"Germany",2020,20.017168
+"Germany",2021,18.082499
+"Germany",2022,20.329155
+"Germany",2023,23.602962
+"Germany",2024,23.968008
+"Greece",1990,1.7141215
+"Greece",1991,2.9608462
+"Greece",1992,2.0743866
+"Greece",1993,2.156708
+"Greece",1994,2.4004078
+"Greece",1995,3.1314807
+"Greece",1996,3.7601187
+"Greece",1997,3.2649188
+"Greece",1998,2.9708037
+"Greece",1999,3.7328174
+"Greece",2000,3.0918128
+"Greece",2001,2.1644914
+"Greece",2002,2.6210783
+"Greece",2003,4.051534
+"Greece",2004,4.050269
+"Greece",2005,4.3349547
+"Greece",2006,5.1486964
+"Greece",2007,3.17061
+"Greece",2008,3.908256
+"Greece",2009,5.6748247
+"Greece",2010,7.6959214
+"Greece",2011,6.057834
+"Greece",2012,7.967024
+"Greece",2013,11.7947855
+"Greece",2014,10.745494
+"Greece",2015,12.795561
+"Greece",2016,12.975171
+"Greece",2017,11.449141
+"Greece",2018,13.163528
+"Greece",2019,13.476221
+"Greece",2020,16.784912
+"Greece",2021,19.199554
+"Greece",2022,18.782621
+"Greece",2023,20.754215
+"Greece",2024,21.05491
+"High-income countries",1990,6.0879216
+"High-income countries",1991,6.181197
+"High-income countries",1992,6.147283
+"High-income countries",1993,6.4184313
+"High-income countries",1994,6.271115
+"High-income countries",1995,6.5047336
+"High-income countries",1996,6.373881
+"High-income countries",1997,6.5547876
+"High-income countries",1998,6.458383
+"High-income countries",1999,6.447729
+"High-income countries",2000,6.4253664
+"High-income countries",2001,6.1406026
+"High-income countries",2002,6.1690683
+"High-income countries",2003,6.0501575
+"High-income countries",2004,6.190335
+"High-income countries",2005,6.3230867
+"High-income countries",2006,6.50202
+"High-income countries",2007,6.5784144
+"High-income countries",2008,6.9944525
+"High-income countries",2009,7.594045
+"High-income countries",2010,7.6271896
+"High-income countries",2011,8.0822
+"High-income countries",2012,8.504875
+"High-income countries",2013,8.934967
+"High-income countries",2014,9.190892
+"High-income countries",2015,9.453437
+"High-income countries",2016,9.776221
+"High-income countries",2017,10.107229
+"High-income countries",2018,10.372641
+"High-income countries",2019,10.728783
+"High-income countries",2020,12.222819
+"High-income countries",2021,12.07041
+"High-income countries",2022,12.450634
+"High-income countries",2023,13.158785
+"High-income countries",2024,13.73302
+"Hong Kong",1990,0
+"Hong Kong",1991,0
+"Hong Kong",1992,0
+"Hong Kong",1993,0
+"Hong Kong",1994,0
+"Hong Kong",1995,0
+"Hong Kong",1996,0
+"Hong Kong",1997,0
+"Hong Kong",1998,0
+"Hong Kong",1999,0
+"Hong Kong",2000,0
+"Hong Kong",2001,0
+"Hong Kong",2002,0
+"Hong Kong",2003,0
+"Hong Kong",2004,0
+"Hong Kong",2005,0
+"Hong Kong",2006,0.000649379
+"Hong Kong",2007,0.000756718
+"Hong Kong",2008,0.000752789
+"Hong Kong",2009,0.000933929
+"Hong Kong",2010,0.052891526
+"Hong Kong",2011,0.13663624
+"Hong Kong",2012,0.060606427
+"Hong Kong",2013,0.16025339
+"Hong Kong",2014,0.15070218
+"Hong Kong",2015,0.20457876
+"Hong Kong",2016,0.20557581
+"Hong Kong",2017,0.20910135
+"Hong Kong",2018,0.24012747
+"Hong Kong",2019,0.25291535
+"Hong Kong",2020,0.46209586
+"Hong Kong",2021,0.6541301
+"Hong Kong",2022,0.9266648
+"Hong Kong",2023,1.0476631
+"Hong Kong",2024,1.0481005
+"Hungary",1990,0.16984051
+"Hungary",1991,0.20391937
+"Hungary",1992,0.20175427
+"Hungary",1993,0.20971869
+"Hungary",1994,0.20793031
+"Hungary",1995,0.21955672
+"Hungary",1996,0.2509772
+"Hungary",1997,0.26928234
+"Hungary",1998,0.21414758
+"Hungary",1999,0.2447152
+"Hungary",2000,0.24920407
+"Hungary",2001,0.25638357
+"Hungary",2002,0.23765965
+"Hungary",2003,0.3454164
+"Hungary",2004,0.9845928
+"Hungary",2005,1.8823912
+"Hungary",2006,1.5568607
+"Hungary",2007,2.042377
+"Hungary",2008,3.0945432
+"Hungary",2009,3.9465206
+"Hungary",2010,3.9990225
+"Hungary",2011,3.6717165
+"Hungary",2012,3.8068593
+"Hungary",2013,4.115048
+"Hungary",2014,4.8198676
+"Hungary",2015,4.592733
+"Hungary",2016,4.567204
+"Hungary",2017,4.454482
+"Hungary",2018,4.840078
+"Hungary",2019,5.631988
+"Hungary",2020,6.8065085
+"Hungary",2021,7.7242503
+"Hungary",2022,8.957309
+"Hungary",2023,10.885689
+"Hungary",2024,12.705954
+"Iceland",1990,59.08268
+"Iceland",1991,60.294716
+"Iceland",1992,59.703728
+"Iceland",1993,59.777126
+"Iceland",1994,59.773674
+"Iceland",1995,60.33307
+"Iceland",1996,58.578865
+"Iceland",1997,61.043396
+"Iceland",1998,63.55871
+"Iceland",1999,66.56568
+"Iceland",2000,67.0538
+"Iceland",2001,68.98607
+"Iceland",2002,69.06028
+"Iceland",2003,69.00925
+"Iceland",2004,68.28319
+"Iceland",2005,68.11182
+"Iceland",2006,70.76009
+"Iceland",2007,74.33723
+"Iceland",2008,81.016396
+"Iceland",2009,82.491196
+"Iceland",2010,83.047
+"Iceland",2011,83.31958
+"Iceland",2012,83.698906
+"Iceland",2013,83.281105
+"Iceland",2014,83.01184
+"Iceland",2015,82.16838
+"Iceland",2016,80.35699
+"Iceland",2017,79.3032
+"Iceland",2018,78.69959
+"Iceland",2019,80.84307
+"Iceland",2020,86.12636
+"Iceland",2021,84.494316
+"Iceland",2022,82.07533
+"Iceland",2023,81.843285
+"Iceland",2024,80.49809
+"India",1990,8.068385
+"India",1991,8.530875
+"India",1992,7.686875
+"India",1993,7.58807
+"India",1994,8.187422
+"India",1995,7.258058
+"India",1996,6.4084535
+"India",1997,6.202084
+"India",1998,6.971399
+"India",1999,6.734852
+"India",2000,6.041602
+"India",2001,5.693083
+"India",2002,5.2175255
+"India",2003,5.14373
+"India",2004,6.8866243
+"India",2005,6.3590374
+"India",2006,7.13375
+"India",2007,7.276437
+"India",2008,6.712009
+"India",2009,5.9646955
+"India",2010,6.056765
+"India",2011,6.9671354
+"India",2012,6.20846
+"India",2013,6.7499924
+"India",2014,6.8288
+"India",2015,6.3568044
+"India",2016,6.369765
+"India",2017,6.792767
+"India",2018,7.307381
+"India",2019,8.1080675
+"India",2020,8.892713
+"India",2021,8.656782
+"India",2022,9.421208
+"India",2023,8.860951
+"India",2024,9.146443
+"Indonesia",1990,3.596921
+"Indonesia",1991,3.6610518
+"Indonesia",1992,4.2191944
+"Indonesia",1993,3.6862354
+"Indonesia",1994,3.4040134
+"Indonesia",1995,3.4448495
+"Indonesia",1996,3.4147522
+"Indonesia",1997,2.4514916
+"Indonesia",1998,3.9267678
+"Indonesia",1999,3.788006
+"Indonesia",2000,3.6989462
+"Indonesia",2001,4.0958548
+"Indonesia",2002,3.6467195
+"Indonesia",2003,3.1953197
+"Indonesia",2004,3.4154806
+"Indonesia",2005,3.4936993
+"Indonesia",2006,3.2336276
+"Indonesia",2007,3.3739655
+"Indonesia",2008,3.6197574
+"Indonesia",2009,3.7359443
+"Indonesia",2010,4.4173155
+"Indonesia",2011,3.5536041
+"Indonesia",2012,3.5767014
+"Indonesia",2013,4.533771
+"Indonesia",2014,4.707626
+"Indonesia",2015,4.0030937
+"Indonesia",2016,5.8097644
+"Indonesia",2017,5.5177298
+"Indonesia",2018,8.029042
+"Indonesia",2019,8.612932
+"Indonesia",2020,10.643529
+"Indonesia",2021,11.076047
+"Indonesia",2022,10.207819
+"Indonesia",2023,10.695158
+"Indonesia",2024,10.95419
+"Iran",1990,2.5313313
+"Iran",1991,1.7714487
+"Iran",1992,2.6309264
+"Iran",1993,3.2550466
+"Iran",1994,1.9012783
+"Iran",1995,2.1884034
+"Iran",1996,2.1302752
+"Iran",1997,1.392558
+"Iran",1998,1.6853502
+"Iran",1999,1.0809332
+"Iran",2000,0.759674
+"Iran",2001,0.7697289
+"Iran",2002,1.3559806
+"Iran",2003,1.5835847
+"Iran",2004,1.7740965
+"Iran",2005,2.0141497
+"Iran",2006,2.3534665
+"Iran",2007,2.1385772
+"Iran",2008,0.8674409
+"Iran",2009,0.76722175
+"Iran",2010,1.1060675
+"Iran",2011,1.1087556
+"Iran",2012,1.2841341
+"Iran",2013,1.4233078
+"Iran",2014,1.3490136
+"Iran",2015,1.2302251
+"Iran",2016,1.3443363
+"Iran",2017,1.4622107
+"Iran",2018,0.8643442
+"Iran",2019,2.6406977
+"Iran",2020,1.8023287
+"Iran",2021,1.1396211
+"Iran",2022,1.1119308
+"Iran",2023,1.679545
+"Iran",2024,1.4326231
+"Iraq",1990,5.453382
+"Iraq",1991,3.982347
+"Iraq",1992,6.11391
+"Iraq",1993,5.4301233
+"Iraq",1994,4.8624654
+"Iraq",1995,5.564493
+"Iraq",1996,5.064516
+"Iraq",1997,4.3485928
+"Iraq",1998,5.4372516
+"Iraq",1999,4.324654
+"Iraq",2000,2.757229
+"Iraq",2001,2.8419464
+"Iraq",2002,3.6559691
+"Iraq",2003,4.2741904
+"Iraq",2004,4.794266
+"Iraq",2005,4.279442
+"Iraq",2006,4.4663196
+"Iraq",2007,4.0294313
+"Iraq",2008,2.239946
+"Iraq",2009,2.1912282
+"Iraq",2010,2.4037626
+"Iraq",2011,2.1771026
+"Iraq",2012,2.572119
+"Iraq",2013,2.4564178
+"Iraq",2014,1.5438972
+"Iraq",2015,1.3996603
+"Iraq",2016,1.7088044
+"Iraq",2017,0.9335327
+"Iraq",2018,0.8770615
+"Iraq",2019,1.9817156
+"Iraq",2020,1.886679
+"Iraq",2021,1.4838758
+"Iraq",2022,1.0945245
+"Iraq",2023,0.59808654
+"Iraq",2024,0.58428055
+"Ireland",1990,1.6440963
+"Ireland",1991,1.693989
+"Ireland",1992,1.8583128
+"Ireland",1993,1.7266221
+"Ireland",1994,1.9946455
+"Ireland",1995,1.5169723
+"Ireland",1996,1.5108565
+"Ireland",1997,1.5628481
+"Ireland",1998,2.0942116
+"Ireland",1999,1.9074942
+"Ireland",2000,1.9202329
+"Ireland",2001,1.569639
+"Ireland",2002,2.1063917
+"Ireland",2003,1.774837
+"Ireland",2004,2.122526
+"Ireland",2005,2.7161562
+"Ireland",2006,3.4513376
+"Ireland",2007,3.9341013
+"Ireland",2008,5.20251
+"Ireland",2009,6.7037754
+"Ireland",2010,6.1491013
+"Ireland",2011,9.031673
+"Ireland",2012,8.861001
+"Ireland",2013,9.647536
+"Ireland",2014,10.937682
+"Ireland",2015,12.506041
+"Ireland",2016,11.537235
+"Ireland",2017,13.692478
+"Ireland",2018,15.142036
+"Ireland",2019,17.390234
+"Ireland",2020,20.819122
+"Ireland",2021,17.798563
+"Ireland",2022,19.420204
+"Ireland",2023,21.819515
+"Ireland",2024,22.180317
+"Israel",1990,0.006453207
+"Israel",1991,0.012695843
+"Israel",1992,0.052584913
+"Israel",1993,0.043412764
+"Israel",1994,0.03680981
+"Israel",1995,0.035575338
+"Israel",1996,0.032955565
+"Israel",1997,0.031393215
+"Israel",1998,0.029831482
+"Israel",1999,0.037994053
+"Israel",2000,0.037873413
+"Israel",2001,0.024316216
+"Israel",2002,0.08840024
+"Israel",2003,0.09925399
+"Israel",2004,0.093979426
+"Israel",2005,0.11717037
+"Israel",2006,0.067736045
+"Israel",2007,0.059919413
+"Israel",2008,0.06872777
+"Israel",2009,0.14885893
+"Israel",2010,0.22159943
+"Israel",2011,0.35262695
+"Israel",2012,0.5016818
+"Israel",2013,0.5834452
+"Israel",2014,0.98740876
+"Israel",2015,1.2694155
+"Israel",2016,1.7457272
+"Israel",2017,1.7501941
+"Israel",2018,1.8904427
+"Israel",2019,2.9027321
+"Israel",2020,4.0240326
+"Israel",2021,4.888745
+"Israel",2022,5.3873425
+"Israel",2023,7.829866
+"Israel",2024,9.794843
+"Italy",1990,4.5675955
+"Italy",1991,6.1246023
+"Italy",1992,6.1287036
+"Italy",1993,6.1543565
+"Italy",1994,6.5739894
+"Italy",1995,5.386048
+"Italy",1996,5.9833665
+"Italy",1997,5.928221
+"Italy",1998,5.958776
+"Italy",1999,6.5430274
+"Italy",2000,6.85282
+"Italy",2001,7.294963
+"Italy",2002,6.4525914
+"Italy",2003,6.0595794
+"Italy",2004,6.893043
+"Italy",2005,6.1606035
+"Italy",2006,6.427094
+"Italy",2007,6.1729903
+"Italy",2008,7.802824
+"Italy",2009,10.126624
+"Italy",2010,10.920738
+"Italy",2011,11.912409
+"Italy",2012,13.49908
+"Italy",2013,16.959805
+"Italy",2014,18.516735
+"Italy",2015,16.659933
+"Italy",2016,16.411886
+"Italy",2017,15.674722
+"Italy",2018,17.059223
+"Italy",2019,17.412243
+"Italy",2020,19.399414
+"Italy",2021,18.013945
+"Italy",2022,15.951095
+"Italy",2023,18.85383
+"Italy",2024,20.930578
+"Japan",1990,5.367829
+"Japan",1991,5.599554
+"Japan",1992,4.804954
+"Japan",1993,5.347902
+"Japan",1994,3.8872461
+"Japan",1995,4.4833183
+"Japan",1996,4.3709464
+"Japan",1997,4.772989
+"Japan",1998,4.9614177
+"Japan",1999,4.6641335
+"Japan",2000,4.6025443
+"Japan",2001,4.5082464
+"Japan",2002,4.513704
+"Japan",2003,5.0984144
+"Japan",2004,5.0228124
+"Japan",2005,4.5202856
+"Japan",2006,5.0106277
+"Japan",2007,4.4989276
+"Japan",2008,4.5608473
+"Japan",2009,4.7555647
+"Japan",2010,5.404294
+"Japan",2011,5.44695
+"Japan",2012,5.379162
+"Japan",2013,5.828955
+"Japan",2014,6.6044903
+"Japan",2015,7.685227
+"Japan",2016,7.593001
+"Japan",2017,8.0285015
+"Japan",2018,8.64989
+"Japan",2019,8.8709755
+"Japan",2020,10.4574995
+"Japan",2021,10.814117
+"Japan",2022,11.154245
+"Japan",2023,11.965058
+"Japan",2024,12.697048
+"Kazakhstan",1990,2.384452
+"Kazakhstan",1991,2.333137
+"Kazakhstan",1992,2.253821
+"Kazakhstan",1993,2.8378155
+"Kazakhstan",1994,3.8355906
+"Kazakhstan",1995,3.8749096
+"Kazakhstan",1996,3.917013
+"Kazakhstan",1997,3.938252
+"Kazakhstan",1998,3.9496286
+"Kazakhstan",1999,4.1968293
+"Kazakhstan",2000,5.678532
+"Kazakhstan",2001,5.382101
+"Kazakhstan",2002,5.7665033
+"Kazakhstan",2003,5.07366
+"Kazakhstan",2004,4.462796
+"Kazakhstan",2005,4.196375
+"Kazakhstan",2006,3.8317413
+"Kazakhstan",2007,3.612957
+"Kazakhstan",2008,3.1038141
+"Kazakhstan",2009,3.1796055
+"Kazakhstan",2010,3.4257126
+"Kazakhstan",2011,2.9484267
+"Kazakhstan",2012,2.7025409
+"Kazakhstan",2013,2.7091928
+"Kazakhstan",2014,2.7433352
+"Kazakhstan",2015,3.7702856
+"Kazakhstan",2016,4.2456493
+"Kazakhstan",2017,3.8153813
+"Kazakhstan",2018,3.4451048
+"Kazakhstan",2019,3.4471078
+"Kazakhstan",2020,4.014204
+"Kazakhstan",2021,3.779672
+"Kazakhstan",2022,3.9951282
+"Kazakhstan",2023,4.1786494
+"Kazakhstan",2024,5.119867
+"Kuwait",1990,0
+"Kuwait",1991,0
+"Kuwait",1992,0
+"Kuwait",1993,0
+"Kuwait",1994,0
+"Kuwait",1995,0
+"Kuwait",1996,0
+"Kuwait",1997,0
+"Kuwait",1998,0
+"Kuwait",1999,0
+"Kuwait",2000,0
+"Kuwait",2001,0
+"Kuwait",2002,0
+"Kuwait",2003,0
+"Kuwait",2004,0
+"Kuwait",2005,0
+"Kuwait",2006,0
+"Kuwait",2007,0
+"Kuwait",2008,0
+"Kuwait",2009,0
+"Kuwait",2010,0
+"Kuwait",2011,0
+"Kuwait",2012,0
+"Kuwait",2013,0.000103765
+"Kuwait",2014,0.001907666
+"Kuwait",2015,0.002749513
+"Kuwait",2016,0.026322374
+"Kuwait",2017,0.02848822
+"Kuwait",2018,0.0284528
+"Kuwait",2019,0.034754958
+"Kuwait",2020,0.037340067
+"Kuwait",2021,0.11131196
+"Kuwait",2022,0.09280318
+"Kuwait",2023,0.083869755
+"Kuwait",2024,0.075629674
+"Latvia",1990,14.555012
+"Latvia",1991,11.502241
+"Latvia",1992,12.317807
+"Latvia",1993,16.319588
+"Latvia",1994,19.400572
+"Latvia",1995,18.407381
+"Latvia",1996,12.483319
+"Latvia",1997,19.779348
+"Latvia",1998,26.660467
+"Latvia",1999,19.963182
+"Latvia",2000,20.890923
+"Latvia",2001,19.382118
+"Latvia",2002,16.668165
+"Latvia",2003,15.7831
+"Latvia",2004,19.12099
+"Latvia",2005,19.73044
+"Latvia",2006,16.88405
+"Latvia",2007,16.497044
+"Latvia",2008,18.494394
+"Latvia",2009,21.61602
+"Latvia",2010,19.887167
+"Latvia",2011,18.85988
+"Latvia",2012,24.022894
+"Latvia",2013,21.73094
+"Latvia",2014,18.95826
+"Latvia",2015,18.66318
+"Latvia",2016,21.13427
+"Latvia",2017,29.606857
+"Latvia",2018,22.38673
+"Latvia",2019,19.894075
+"Latvia",2020,24.893656
+"Latvia",2021,24.165041
+"Latvia",2022,26.645931
+"Latvia",2023,31.776415
+"Latvia",2024,29.669052
+"Lithuania",1990,0.5898224
+"Lithuania",1991,0.45691967
+"Lithuania",1992,0.66236657
+"Lithuania",1993,1.0638648
+"Lithuania",1994,1.41775
+"Lithuania",1995,1.0508637
+"Lithuania",1996,0.8430853
+"Lithuania",1997,0.82220954
+"Lithuania",1998,1.0830053
+"Lithuania",1999,1.3141168
+"Lithuania",2000,1.209343
+"Lithuania",2001,1.0099819
+"Lithuania",2002,1.0099884
+"Lithuania",2003,0.89630085
+"Lithuania",2004,1.1437074
+"Lithuania",2005,1.3632121
+"Lithuania",2006,1.5711005
+"Lithuania",2007,2.2205682
+"Lithuania",2008,2.4034102
+"Lithuania",2009,2.7367816
+"Lithuania",2010,4.494437
+"Lithuania",2011,5.0893087
+"Lithuania",2012,5.6541977
+"Lithuania",2013,7.5562286
+"Lithuania",2014,7.885273
+"Lithuania",2015,8.30786
+"Lithuania",2016,9.468398
+"Lithuania",2017,10.892091
+"Lithuania",2018,9.532973
+"Lithuania",2019,10.435635
+"Lithuania",2020,11.356285
+"Lithuania",2021,12.011003
+"Lithuania",2022,14.382126
+"Lithuania",2023,18.719112
+"Lithuania",2024,23.413942
+"Lower-middle-income countries",1990,8.685993
+"Lower-middle-income countries",1991,8.937634
+"Lower-middle-income countries",1992,8.4592285
+"Lower-middle-income countries",1993,8.504241
+"Lower-middle-income countries",1994,8.941021
+"Lower-middle-income countries",1995,8.2469845
+"Lower-middle-income countries",1996,7.8499312
+"Lower-middle-income countries",1997,7.2301073
+"Lower-middle-income countries",1998,7.8884215
+"Lower-middle-income countries",1999,7.7941346
+"Lower-middle-income countries",2000,7.1781907
+"Lower-middle-income countries",2001,6.9961514
+"Lower-middle-income countries",2002,6.6212344
+"Lower-middle-income countries",2003,6.7448697
+"Lower-middle-income countries",2004,7.548307
+"Lower-middle-income countries",2005,7.1335807
+"Lower-middle-income countries",2006,7.74022
+"Lower-middle-income countries",2007,7.7632775
+"Lower-middle-income countries",2008,7.273852
+"Lower-middle-income countries",2009,6.8875313
+"Lower-middle-income countries",2010,6.849232
+"Lower-middle-income countries",2011,7.554784
+"Lower-middle-income countries",2012,6.8246427
+"Lower-middle-income countries",2013,7.7495937
+"Lower-middle-income countries",2014,7.71621
+"Lower-middle-income countries",2015,7.2295613
+"Lower-middle-income countries",2016,7.292918
+"Lower-middle-income countries",2017,7.7974477
+"Lower-middle-income countries",2018,7.989274
+"Lower-middle-income countries",2019,8.305637
+"Lower-middle-income countries",2020,9.233193
+"Lower-middle-income countries",2021,9.355321
+"Lower-middle-income countries",2022,10.153687
+"Lower-middle-income countries",2023,9.640247
+"Lower-middle-income countries",2024,9.948721
+"Luxembourg",1990,0.628799
+"Luxembourg",1991,0.69403476
+"Luxembourg",1992,0.57763827
+"Luxembourg",1993,0.5722628
+"Luxembourg",1994,0.7334844
+"Luxembourg",1995,0.9003018
+"Luxembourg",1996,0.6160995
+"Luxembourg",1997,0.85455
+"Luxembourg",1998,1.223569
+"Luxembourg",1999,0.99029297
+"Luxembourg",2000,1.295881
+"Luxembourg",2001,1.1862816
+"Luxembourg",2002,0.97544456
+"Luxembourg",2003,0.8717486
+"Luxembourg",2004,1.0565047
+"Luxembourg",2005,1.1083696
+"Luxembourg",2006,1.3213212
+"Luxembourg",2007,2.4839628
+"Luxembourg",2008,2.5845075
+"Luxembourg",2009,2.554479
+"Luxembourg",2010,2.427856
+"Luxembourg",2011,2.4906795
+"Luxembourg",2012,2.9020607
+"Luxembourg",2013,3.5512846
+"Luxembourg",2014,4.2420316
+"Luxembourg",2015,4.903074
+"Luxembourg",2016,5.2969394
+"Luxembourg",2017,6.5263186
+"Luxembourg",2018,6.964298
+"Luxembourg",2019,7.7181797
+"Luxembourg",2020,10.604822
+"Luxembourg",2021,9.927758
+"Luxembourg",2022,11.034748
+"Luxembourg",2023,12.572248
+"Luxembourg",2024,14.278366
+"Malaysia",1990,4.644536
+"Malaysia",1991,4.0963526
+"Malaysia",1992,3.4966087
+"Malaysia",1993,3.9368782
+"Malaysia",1994,4.955903
+"Malaysia",1995,4.3428664
+"Malaysia",1996,3.2411954
+"Malaysia",1997,2.2477603
+"Malaysia",1998,2.4977875
+"Malaysia",1999,3.9647648
+"Malaysia",2000,3.471553
+"Malaysia",2001,2.964407
+"Malaysia",2002,2.4419253
+"Malaysia",2003,2.1235485
+"Malaysia",2004,2.1898427
+"Malaysia",2005,2.1547606
+"Malaysia",2006,2.242483
+"Malaysia",2007,2.0632105
+"Malaysia",2008,2.5269666
+"Malaysia",2009,2.4878314
+"Malaysia",2010,2.2016032
+"Malaysia",2011,2.7034724
+"Malaysia",2012,2.8766632
+"Malaysia",2013,3.3276143
+"Malaysia",2014,3.6789017
+"Malaysia",2015,3.8489833
+"Malaysia",2016,4.960742
+"Malaysia",2017,6.3118143
+"Malaysia",2018,6.331725
+"Malaysia",2019,6.430763
+"Malaysia",2020,7.1748385
+"Malaysia",2021,7.645544
+"Malaysia",2022,7.832597
+"Malaysia",2023,8.116639
+"Malaysia",2024,8.281804
+"Mexico",1990,6.3846393
+"Mexico",1991,5.9843874
+"Mexico",1992,6.8360877
+"Mexico",1993,6.8284926
+"Mexico",1994,5.1814713
+"Mexico",1995,6.739381
+"Mexico",1996,7.22658
+"Mexico",1997,6.0748744
+"Mexico",1998,5.5740952
+"Mexico",1999,6.8996468
+"Mexico",2000,6.6645803
+"Mexico",2001,5.9095926
+"Mexico",2002,5.124882
+"Mexico",2003,4.4104505
+"Mexico",2004,4.989392
+"Mexico",2005,5.004691
+"Mexico",2006,5.1775947
+"Mexico",2007,4.845502
+"Mexico",2008,6.04278
+"Mexico",2009,4.5587587
+"Mexico",2010,5.9526296
+"Mexico",2011,5.6022654
+"Mexico",2012,5.1935306
+"Mexico",2013,4.8340197
+"Mexico",2014,6.426185
+"Mexico",2015,5.8616557
+"Mexico",2016,5.731222
+"Mexico",2017,5.7701097
+"Mexico",2018,6.3425817
+"Mexico",2019,6.6410456
+"Mexico",2020,8.668187
+"Mexico",2021,9.537886
+"Mexico",2022,9.242802
+"Mexico",2023,7.9276714
+"Mexico",2024,8.250967
+"Middle Africa (EI)",1990,33.28915
+"Middle Africa (EI)",1991,34.192093
+"Middle Africa (EI)",1992,36.17246
+"Middle Africa (EI)",1993,34.3508
+"Middle Africa (EI)",1994,33.76734
+"Middle Africa (EI)",1995,36.248642
+"Middle Africa (EI)",1996,36.27304
+"Middle Africa (EI)",1997,33.950504
+"Middle Africa (EI)",1998,34.467598
+"Middle Africa (EI)",1999,34.438995
+"Middle Africa (EI)",2000,34.56799
+"Middle Africa (EI)",2001,34.349777
+"Middle Africa (EI)",2002,32.612114
+"Middle Africa (EI)",2003,31.252077
+"Middle Africa (EI)",2004,29.718927
+"Middle Africa (EI)",2005,31.296701
+"Middle Africa (EI)",2006,31.461962
+"Middle Africa (EI)",2007,27.92442
+"Middle Africa (EI)",2008,27.040817
+"Middle Africa (EI)",2009,25.2079
+"Middle Africa (EI)",2010,23.521255
+"Middle Africa (EI)",2011,22.760714
+"Middle Africa (EI)",2012,20.207212
+"Middle Africa (EI)",2013,20.38779
+"Middle Africa (EI)",2014,20.981222
+"Middle Africa (EI)",2015,20.965296
+"Middle Africa (EI)",2016,21.695711
+"Middle Africa (EI)",2017,24.374949
+"Middle Africa (EI)",2018,26.360844
+"Middle Africa (EI)",2019,27.040676
+"Middle Africa (EI)",2020,31.06653
+"Middle Africa (EI)",2021,28.874918
+"Middle Africa (EI)",2022,28.16003
+"Middle Africa (EI)",2023,29.63933
+"Middle Africa (EI)",2024,29.908087
+"Middle East (EI)",1990,1.4200628
+"Middle East (EI)",1991,0.98868597
+"Middle East (EI)",1992,1.4594264
+"Middle East (EI)",1993,1.5967644
+"Middle East (EI)",1994,1.1861012
+"Middle East (EI)",1995,1.2965187
+"Middle East (EI)",1996,1.2603465
+"Middle East (EI)",1997,1.0215293
+"Middle East (EI)",1998,1.0749296
+"Middle East (EI)",1999,0.7256821
+"Middle East (EI)",2000,0.62633145
+"Middle East (EI)",2001,0.6419293
+"Middle East (EI)",2002,0.8706908
+"Middle East (EI)",2003,0.9166936
+"Middle East (EI)",2004,1.0494082
+"Middle East (EI)",2005,1.0194005
+"Middle East (EI)",2006,1.1368701
+"Middle East (EI)",2007,1.0228173
+"Middle East (EI)",2008,0.4897955
+"Middle East (EI)",2009,0.4294284
+"Middle East (EI)",2010,0.56492406
+"Middle East (EI)",2011,0.5737667
+"Middle East (EI)",2012,0.64981735
+"Middle East (EI)",2013,0.6900567
+"Middle East (EI)",2014,0.5860247
+"Middle East (EI)",2015,0.4979259
+"Middle East (EI)",2016,0.5987389
+"Middle East (EI)",2017,0.62950826
+"Middle East (EI)",2018,0.50342554
+"Middle East (EI)",2019,1.2776197
+"Middle East (EI)",2020,1.1475357
+"Middle East (EI)",2021,0.9744671
+"Middle East (EI)",2022,1.0575472
+"Middle East (EI)",2023,1.4978552
+"Middle East (EI)",2024,1.5773549
+"Morocco",1990,4.1058965
+"Morocco",1991,4.074406
+"Morocco",1992,2.860673
+"Morocco",1993,1.2996103
+"Morocco",1994,2.2370532
+"Morocco",1995,1.6583773
+"Morocco",1996,5.091763
+"Morocco",1997,5.213629
+"Morocco",1998,4.3339806
+"Morocco",1999,1.9364423
+"Morocco",2000,1.8514851
+"Morocco",2001,2.3284373
+"Morocco",2002,2.1849256
+"Morocco",2003,3.4428172
+"Morocco",2004,3.2725637
+"Morocco",2005,1.9537929
+"Morocco",2006,1.8953096
+"Morocco",2007,1.9266162
+"Morocco",2008,1.7804509
+"Morocco",2009,4.4312935
+"Morocco",2010,5.532392
+"Morocco",2011,3.4209776
+"Morocco",2012,2.9226825
+"Morocco",2013,4.7959743
+"Morocco",2014,4.1867847
+"Morocco",2015,5.071517
+"Morocco",2016,5.2578416
+"Morocco",2017,4.9719467
+"Morocco",2018,6.6989107
+"Morocco",2019,7.1096087
+"Morocco",2020,7.141505
+"Morocco",2021,7.1264544
+"Morocco",2022,6.6156073
+"Morocco",2023,7.97416
+"Morocco",2024,8.673474
+"Netherlands",1990,0.27298614
+"Netherlands",1991,0.31010416
+"Netherlands",1992,0.32961985
+"Netherlands",1993,0.3632424
+"Netherlands",1994,0.4136152
+"Netherlands",1995,0.44182104
+"Netherlands",1996,0.5463039
+"Netherlands",1997,0.6161634
+"Netherlands",1998,0.7030627
+"Netherlands",1999,0.769716
+"Netherlands",2000,0.8954775
+"Netherlands",2001,0.9577014
+"Netherlands",2002,1.1499947
+"Netherlands",2003,1.1242951
+"Netherlands",2004,1.4521759
+"Netherlands",2005,2.013442
+"Netherlands",2006,2.239911
+"Netherlands",2007,2.3409986
+"Netherlands",2008,2.816523
+"Netherlands",2009,3.3230915
+"Netherlands",2010,3.0386908
+"Netherlands",2011,3.5456226
+"Netherlands",2012,3.6702337
+"Netherlands",2013,3.6103115
+"Netherlands",2014,3.6512747
+"Netherlands",2015,4.031189
+"Netherlands",2016,4.1387153
+"Netherlands",2017,4.794659
+"Netherlands",2018,5.5051446
+"Netherlands",2019,6.7085767
+"Netherlands",2020,9.734893
+"Netherlands",2021,11.482852
+"Netherlands",2022,14.416846
+"Netherlands",2023,16.630291
+"Netherlands",2024,18.119257
+"New Zealand",1990,40.272728
+"New Zealand",1991,39.292564
+"New Zealand",1992,36.401722
+"New Zealand",1993,39.093678
+"New Zealand",1994,40.07229
+"New Zealand",1995,40.820995
+"New Zealand",1996,38.33256
+"New Zealand",1997,34.58462
+"New Zealand",1998,37.697983
+"New Zealand",1999,34.57964
+"New Zealand",2000,35.36387
+"New Zealand",2001,31.766731
+"New Zealand",2002,34.139435
+"New Zealand",2003,33.365532
+"New Zealand",2004,36.99028
+"New Zealand",2005,33.78733
+"New Zealand",2006,34.04708
+"New Zealand",2007,34.70124
+"New Zealand",2008,33.83558
+"New Zealand",2009,37.36173
+"New Zealand",2010,38.311356
+"New Zealand",2011,39.186787
+"New Zealand",2012,36.696205
+"New Zealand",2013,36.768856
+"New Zealand",2014,37.452274
+"New Zealand",2015,38.143116
+"New Zealand",2016,38.817078
+"New Zealand",2017,37.08545
+"New Zealand",2018,38.09752
+"New Zealand",2019,36.899734
+"New Zealand",2020,39.27529
+"New Zealand",2021,40.316456
+"New Zealand",2022,43.294933
+"New Zealand",2023,42.264587
+"New Zealand",2024,42.554394
+"Non-OECD (EI)",1990,6.738515
+"Non-OECD (EI)",1991,6.952496
+"Non-OECD (EI)",1992,7.033016
+"Non-OECD (EI)",1993,7.4326353
+"Non-OECD (EI)",1994,7.809762
+"Non-OECD (EI)",1995,7.9928055
+"Non-OECD (EI)",1996,7.8139486
+"Non-OECD (EI)",1997,7.8820767
+"Non-OECD (EI)",1998,8.169329
+"Non-OECD (EI)",1999,8.080178
+"Non-OECD (EI)",2000,8.055896
+"Non-OECD (EI)",2001,7.9558215
+"Non-OECD (EI)",2002,7.7683835
+"Non-OECD (EI)",2003,7.358778
+"Non-OECD (EI)",2004,7.541986
+"Non-OECD (EI)",2005,7.447286
+"Non-OECD (EI)",2006,7.420438
+"Non-OECD (EI)",2007,7.4333177
+"Non-OECD (EI)",2008,7.7692575
+"Non-OECD (EI)",2009,7.8008995
+"Non-OECD (EI)",2010,8.015069
+"Non-OECD (EI)",2011,7.800059
+"Non-OECD (EI)",2012,8.142191
+"Non-OECD (EI)",2013,8.568565
+"Non-OECD (EI)",2014,8.9687195
+"Non-OECD (EI)",2015,9.099862
+"Non-OECD (EI)",2016,9.589522
+"Non-OECD (EI)",2017,9.931401
+"Non-OECD (EI)",2018,10.412346
+"Non-OECD (EI)",2019,10.842357
+"Non-OECD (EI)",2020,11.599679
+"Non-OECD (EI)",2021,11.883962
+"Non-OECD (EI)",2022,12.550353
+"Non-OECD (EI)",2023,12.814315
+"Non-OECD (EI)",2024,13.783567
+"North America",1990,7.296341
+"North America",1991,7.393062
+"North America",1992,7.095675
+"North America",1993,7.337242
+"North America",1994,6.978624
+"North America",1995,7.4452887
+"North America",1996,7.770106
+"North America",1997,7.707293
+"North America",1998,7.1985664
+"North America",1999,7.272005
+"North America",2000,6.8399487
+"North America",2001,6.1580014
+"North America",2002,6.6523776
+"North America",2003,6.6040673
+"North America",2004,6.537387
+"North America",2005,6.784147
+"North America",2006,7.099548
+"North America",2007,6.892039
+"North America",2008,7.5890594
+"North America",2009,8.19338
+"North America",2010,8.1278305
+"North America",2011,9.087244
+"North America",2012,9.189115
+"North America",2013,9.34792
+"North America",2014,9.452917
+"North America",2015,9.694766
+"North America",2016,10.359279
+"North America",2017,11.027422
+"North America",2018,10.845119
+"North America",2019,11.066318
+"North America",2020,12.478162
+"North America",2021,12.411072
+"North America",2022,13.036164
+"North America",2023,12.964751
+"North America",2024,13.561747
+"North America (EI)",1990,7.222272
+"North America (EI)",1991,7.324505
+"North America (EI)",1992,7.031757
+"North America (EI)",1993,7.2821507
+"North America (EI)",1994,6.935691
+"North America (EI)",1995,7.4168024
+"North America (EI)",1996,7.735581
+"North America (EI)",1997,7.6838593
+"North America (EI)",1998,7.1699505
+"North America (EI)",1999,7.2128644
+"North America (EI)",2000,6.79011
+"North America (EI)",2001,6.11504
+"North America (EI)",2002,6.619412
+"North America (EI)",2003,6.5678964
+"North America (EI)",2004,6.4947805
+"North America (EI)",2005,6.7452497
+"North America (EI)",2006,7.0811644
+"North America (EI)",2007,6.8729672
+"North America (EI)",2008,7.5688834
+"North America (EI)",2009,8.18659
+"North America (EI)",2010,8.103245
+"North America (EI)",2011,9.09081
+"North America (EI)",2012,9.1676035
+"North America (EI)",2013,9.322106
+"North America (EI)",2014,9.433061
+"North America (EI)",2015,9.674178
+"North America (EI)",2016,10.34286
+"North America (EI)",2017,10.997217
+"North America (EI)",2018,10.798135
+"North America (EI)",2019,11.056481
+"North America (EI)",2020,12.424632
+"North America (EI)",2021,12.342437
+"North America (EI)",2022,12.988676
+"North America (EI)",2023,12.955896
+"North America (EI)",2024,13.559166
+"North Macedonia",1990,4.6121616
+"North Macedonia",1991,8.040687
+"North Macedonia",1992,7.829674
+"North Macedonia",1993,4.8035636
+"North Macedonia",1994,6.817592
+"North Macedonia",1995,7.8049393
+"North Macedonia",1996,7.1272397
+"North Macedonia",1997,8.374555
+"North Macedonia",1998,8.918891
+"North Macedonia",1999,11.961955
+"North Macedonia",2000,10.607728
+"North Macedonia",2001,5.9806128
+"North Macedonia",2002,7.347762
+"North Macedonia",2003,11.797396
+"North Macedonia",2004,12.822191
+"North Macedonia",2005,12.408507
+"North Macedonia",2006,13.409227
+"North Macedonia",2007,8.212495
+"North Macedonia",2008,7.0486703
+"North Macedonia",2009,10.84947
+"North Macedonia",2010,18.92331
+"North Macedonia",2011,11.084478
+"North Macedonia",2012,8.63599
+"North Macedonia",2013,13.682829
+"North Macedonia",2014,11.856857
+"North Macedonia",2015,17.672855
+"North Macedonia",2016,17.240671
+"North Macedonia",2017,11.200621
+"North Macedonia",2018,16.350788
+"North Macedonia",2019,10.902692
+"North Macedonia",2020,13.396246
+"North Macedonia",2021,14.348124
+"North Macedonia",2022,13.052943
+"North Macedonia",2023,16.83277
+"North Macedonia",2024,16.037403
+"Norway",1990,71.55794
+"Norway",1991,70.17898
+"Norway",1992,71.026276
+"Norway",1993,70.75534
+"Norway",1994,68.29652
+"Norway",1995,69.428665
+"Norway",1996,64.53172
+"Norway",1997,65.00285
+"Norway",1998,65.89856
+"Norway",1999,67.14488
+"Norway",2000,70.79301
+"Norway",2001,66.997635
+"Norway",2002,68.32399
+"Norway",2003,62.650433
+"Norway",2004,63.412933
+"Norway",2005,68.684525
+"Norway",2006,65.661865
+"Norway",2007,67.79772
+"Norway",2008,69.31733
+"Norway",2009,67.62752
+"Norway",2010,64.62948
+"Norway",2011,65.62393
+"Norway",2012,69.202286
+"Norway",2013,66.873436
+"Norway",2014,67.91426
+"Norway",2015,67.67566
+"Norway",2016,69.04622
+"Norway",2017,68.89434
+"Norway",2018,68.13159
+"Norway",2019,66.7414
+"Norway",2020,70.962906
+"Norway",2021,71.30543
+"Norway",2022,69.64841
+"Norway",2023,70.75797
+"Norway",2024,71.81197
+"OECD (EI)",1990,6.8378425
+"OECD (EI)",1991,6.8912077
+"OECD (EI)",1992,6.809014
+"OECD (EI)",1993,7.122215
+"OECD (EI)",1994,6.8261404
+"OECD (EI)",1995,7.0853696
+"OECD (EI)",1996,7.025712
+"OECD (EI)",1997,7.13164
+"OECD (EI)",1998,7.0064316
+"OECD (EI)",1999,7.011981
+"OECD (EI)",2000,6.977933
+"OECD (EI)",2001,6.6103415
+"OECD (EI)",2002,6.7427964
+"OECD (EI)",2003,6.665418
+"OECD (EI)",2004,6.816677
+"OECD (EI)",2005,6.9587836
+"OECD (EI)",2006,7.2597065
+"OECD (EI)",2007,7.3330655
+"OECD (EI)",2008,7.9446845
+"OECD (EI)",2009,8.56597
+"OECD (EI)",2010,8.778077
+"OECD (EI)",2011,9.465015
+"OECD (EI)",2012,10.010065
+"OECD (EI)",2013,10.400838
+"OECD (EI)",2014,10.753521
+"OECD (EI)",2015,11.215817
+"OECD (EI)",2016,11.580272
+"OECD (EI)",2017,11.991366
+"OECD (EI)",2018,12.320138
+"OECD (EI)",2019,12.835729
+"OECD (EI)",2020,14.621207
+"OECD (EI)",2021,14.392379
+"OECD (EI)",2022,15.029241
+"OECD (EI)",2023,15.856771
+"OECD (EI)",2024,16.62371
+"Oceania",1990,9.503097
+"Oceania",1991,9.700303
+"Oceania",1992,9.2055855
+"Oceania",1993,9.651912
+"Oceania",1994,9.691701
+"Oceania",1995,9.693143
+"Oceania",1996,9.247771
+"Oceania",1997,8.517511
+"Oceania",1998,8.791389
+"Oceania",1999,8.199584
+"Oceania",2000,8.436416
+"Oceania",2001,7.761115
+"Oceania",2002,8.2000475
+"Oceania",2003,7.9967227
+"Oceania",2004,8.519862
+"Oceania",2005,8.199354
+"Oceania",2006,8.051154
+"Oceania",2007,7.838195
+"Oceania",2008,7.4335623
+"Oceania",2009,8.132529
+"Oceania",2010,8.67946
+"Oceania",2011,9.822865
+"Oceania",2012,9.591828
+"Oceania",2013,10.256891
+"Oceania",2014,10.053629
+"Oceania",2015,10.347542
+"Oceania",2016,11.194971
+"Oceania",2017,10.676391
+"Oceania",2018,12.016186
+"Oceania",2019,12.291819
+"Oceania",2020,14.123908
+"Oceania",2021,15.940855
+"Oceania",2022,16.976364
+"Oceania",2023,17.886288
+"Oceania",2024,18.182968
+"Oman",1990,0
+"Oman",1991,0
+"Oman",1992,0
+"Oman",1993,0
+"Oman",1994,0
+"Oman",1995,0
+"Oman",1996,0
+"Oman",1997,0
+"Oman",1998,0
+"Oman",1999,0
+"Oman",2000,0
+"Oman",2001,0
+"Oman",2002,0
+"Oman",2003,0
+"Oman",2004,0
+"Oman",2005,0
+"Oman",2006,0
+"Oman",2007,0
+"Oman",2008,0
+"Oman",2009,0
+"Oman",2010,0
+"Oman",2011,0
+"Oman",2012,0
+"Oman",2013,0.000966267
+"Oman",2014,0.000966374
+"Oman",2015,0.00277606
+"Oman",2016,0.003113217
+"Oman",2017,0.011053859
+"Oman",2018,0.010394703
+"Oman",2019,0.016741173
+"Oman",2020,0.10924955
+"Oman",2021,0.4964175
+"Oman",2022,1.1359578
+"Oman",2023,1.1416178
+"Oman",2024,1.1151829
+"Other Asia Pacific (EI)",1990,11.273937
+"Other Asia Pacific (EI)",1991,11.302547
+"Other Asia Pacific (EI)",1992,11.922278
+"Other Asia Pacific (EI)",1993,12.192747
+"Other Asia Pacific (EI)",1994,13.356861
+"Other Asia Pacific (EI)",1995,13.785004
+"Other Asia Pacific (EI)",1996,14.080552
+"Other Asia Pacific (EI)",1997,12.764595
+"Other Asia Pacific (EI)",1998,13.158652
+"Other Asia Pacific (EI)",1999,13.275821
+"Other Asia Pacific (EI)",2000,13.560193
+"Other Asia Pacific (EI)",2001,13.688273
+"Other Asia Pacific (EI)",2002,14.162479
+"Other Asia Pacific (EI)",2003,14.111401
+"Other Asia Pacific (EI)",2004,14.362431
+"Other Asia Pacific (EI)",2005,14.596078
+"Other Asia Pacific (EI)",2006,14.998949
+"Other Asia Pacific (EI)",2007,17.089777
+"Other Asia Pacific (EI)",2008,17.418184
+"Other Asia Pacific (EI)",2009,17.12943
+"Other Asia Pacific (EI)",2010,18.522644
+"Other Asia Pacific (EI)",2011,21.608492
+"Other Asia Pacific (EI)",2012,21.20444
+"Other Asia Pacific (EI)",2013,24.902819
+"Other Asia Pacific (EI)",2014,22.686413
+"Other Asia Pacific (EI)",2015,20.30074
+"Other Asia Pacific (EI)",2016,22.429523
+"Other Asia Pacific (EI)",2017,19.381319
+"Other Asia Pacific (EI)",2018,19.914804
+"Other Asia Pacific (EI)",2019,17.575327
+"Other Asia Pacific (EI)",2020,19.532497
+"Other Asia Pacific (EI)",2021,22.48198
+"Other Asia Pacific (EI)",2022,24.11211
+"Other Asia Pacific (EI)",2023,23.218777
+"Other Asia Pacific (EI)",2024,24.54877
+"Other CIS (EI)",1990,19.586493
+"Other CIS (EI)",1991,23.190744
+"Other CIS (EI)",1992,27.56294
+"Other CIS (EI)",1993,37.53292
+"Other CIS (EI)",1994,47.090015
+"Other CIS (EI)",1995,46.756855
+"Other CIS (EI)",1996,45.061356
+"Other CIS (EI)",1997,43.23327
+"Other CIS (EI)",1998,42.661556
+"Other CIS (EI)",1999,50.16717
+"Other CIS (EI)",2000,52.095856
+"Other CIS (EI)",2001,50.34296
+"Other CIS (EI)",2002,50.19415
+"Other CIS (EI)",2003,53.692005
+"Other CIS (EI)",2004,51.075096
+"Other CIS (EI)",2005,49.271797
+"Other CIS (EI)",2006,47.78049
+"Other CIS (EI)",2007,45.25122
+"Other CIS (EI)",2008,40.411705
+"Other CIS (EI)",2009,40.92682
+"Other CIS (EI)",2010,43.157635
+"Other CIS (EI)",2011,43.813538
+"Other CIS (EI)",2012,42.411613
+"Other CIS (EI)",2013,42.862324
+"Other CIS (EI)",2014,40.247902
+"Other CIS (EI)",2015,38.186783
+"Other CIS (EI)",2016,38.02709
+"Other CIS (EI)",2017,40.16952
+"Other CIS (EI)",2018,38.275055
+"Other CIS (EI)",2019,40.072136
+"Other CIS (EI)",2020,38.335293
+"Other CIS (EI)",2021,37.628246
+"Other CIS (EI)",2022,37.2134
+"Other CIS (EI)",2023,38.302505
+"Other CIS (EI)",2024,38.954353
+"Other Caribbean (EI)",1990,6.542172
+"Other Caribbean (EI)",1991,6.551912
+"Other Caribbean (EI)",1992,6.082686
+"Other Caribbean (EI)",1993,5.2651143
+"Other Caribbean (EI)",1994,4.5061874
+"Other Caribbean (EI)",1995,4.6523705
+"Other Caribbean (EI)",1996,4.8453765
+"Other Caribbean (EI)",1997,4.4612274
+"Other Caribbean (EI)",1998,4.613256
+"Other Caribbean (EI)",1999,5.257437
+"Other Caribbean (EI)",2000,4.001528
+"Other Caribbean (EI)",2001,3.530831
+"Other Caribbean (EI)",2002,3.5288236
+"Other Caribbean (EI)",2003,3.6027486
+"Other Caribbean (EI)",2004,3.6581624
+"Other Caribbean (EI)",2005,3.5024347
+"Other Caribbean (EI)",2006,2.885693
+"Other Caribbean (EI)",2007,2.4029057
+"Other Caribbean (EI)",2008,2.4507418
+"Other Caribbean (EI)",2009,2.6811287
+"Other Caribbean (EI)",2010,2.6131244
+"Other Caribbean (EI)",2011,2.7976193
+"Other Caribbean (EI)",2012,3.2246594
+"Other Caribbean (EI)",2013,3.731426
+"Other Caribbean (EI)",2014,3.2336872
+"Other Caribbean (EI)",2015,3.035669
+"Other Caribbean (EI)",2016,3.2915246
+"Other Caribbean (EI)",2017,3.9995542
+"Other Caribbean (EI)",2018,3.8745553
+"Other Caribbean (EI)",2019,4.0755734
+"Other Caribbean (EI)",2020,4.9052973
+"Other Caribbean (EI)",2021,5.2225604
+"Other Caribbean (EI)",2022,5.2935014
+"Other Caribbean (EI)",2023,5.2600546
+"Other Caribbean (EI)",2024,5.3985224
+"Other Europe (EI)",1990,12.164698
+"Other Europe (EI)",1991,16.887705
+"Other Europe (EI)",1992,16.692806
+"Other Europe (EI)",1993,17.705399
+"Other Europe (EI)",1994,23.32954
+"Other Europe (EI)",1995,22.854973
+"Other Europe (EI)",1996,26.099127
+"Other Europe (EI)",1997,21.991344
+"Other Europe (EI)",1998,21.844727
+"Other Europe (EI)",1999,25.51235
+"Other Europe (EI)",2000,21.492771
+"Other Europe (EI)",2001,19.85163
+"Other Europe (EI)",2002,18.767239
+"Other Europe (EI)",2003,17.581196
+"Other Europe (EI)",2004,18.667006
+"Other Europe (EI)",2005,19.196253
+"Other Europe (EI)",2006,17.405876
+"Other Europe (EI)",2007,14.946459
+"Other Europe (EI)",2008,15.912159
+"Other Europe (EI)",2009,18.10724
+"Other Europe (EI)",2010,21.649797
+"Other Europe (EI)",2011,14.566305
+"Other Europe (EI)",2012,15.867579
+"Other Europe (EI)",2013,19.269642
+"Other Europe (EI)",2014,19.029531
+"Other Europe (EI)",2015,17.63282
+"Other Europe (EI)",2016,18.288961
+"Other Europe (EI)",2017,14.822803
+"Other Europe (EI)",2018,19.158827
+"Other Europe (EI)",2019,16.84828
+"Other Europe (EI)",2020,16.167831
+"Other Europe (EI)",2021,20.256838
+"Other Europe (EI)",2022,17.247856
+"Other Europe (EI)",2023,20.781542
+"Other Europe (EI)",2024,19.345661
+"Other Middle East (EI)",1990,2.7986238
+"Other Middle East (EI)",1991,2.6398585
+"Other Middle East (EI)",1992,2.6309066
+"Other Middle East (EI)",1993,2.510655
+"Other Middle East (EI)",1994,2.4370441
+"Other Middle East (EI)",1995,2.1904607
+"Other Middle East (EI)",1996,2.2524586
+"Other Middle East (EI)",1997,2.103236
+"Other Middle East (EI)",1998,2.0179482
+"Other Middle East (EI)",1999,1.7411249
+"Other Middle East (EI)",2000,2.090149
+"Other Middle East (EI)",2001,2.0663195
+"Other Middle East (EI)",2002,2.2099485
+"Other Middle East (EI)",2003,2.0504467
+"Other Middle East (EI)",2004,2.5798419
+"Other Middle East (EI)",2005,1.9680345
+"Other Middle East (EI)",2006,1.9832371
+"Other Middle East (EI)",2007,1.6986514
+"Other Middle East (EI)",2008,1.2751585
+"Other Middle East (EI)",2009,0.9685436
+"Other Middle East (EI)",2010,1.3151758
+"Other Middle East (EI)",2011,1.6273956
+"Other Middle East (EI)",2012,1.883945
+"Other Middle East (EI)",2013,1.834724
+"Other Middle East (EI)",2014,1.1043694
+"Other Middle East (EI)",2015,0.5717883
+"Other Middle East (EI)",2016,1.138063
+"Other Middle East (EI)",2017,1.2567892
+"Other Middle East (EI)",2018,1.6992116
+"Other Middle East (EI)",2019,2.4356377
+"Other Middle East (EI)",2020,3.0507946
+"Other Middle East (EI)",2021,3.5015419
+"Other Middle East (EI)",2022,4.221304
+"Other Middle East (EI)",2023,4.5270085
+"Other Middle East (EI)",2024,4.903802
+"Other Northern Africa (EI)",1990,0.06522384
+"Other Northern Africa (EI)",1991,0.15621547
+"Other Northern Africa (EI)",1992,0.09762901
+"Other Northern Africa (EI)",1993,0.09058793
+"Other Northern Africa (EI)",1994,0.05184398
+"Other Northern Africa (EI)",1995,0.047923993
+"Other Northern Africa (EI)",1996,0.080364056
+"Other Northern Africa (EI)",1997,0.050759964
+"Other Northern Africa (EI)",1998,0.08085126
+"Other Northern Africa (EI)",1999,0.100792035
+"Other Northern Africa (EI)",2000,0.09043103
+"Other Northern Africa (EI)",2001,0.07885866
+"Other Northern Africa (EI)",2002,0.095190845
+"Other Northern Africa (EI)",2003,0.19358131
+"Other Northern Africa (EI)",2004,0.17703328
+"Other Northern Africa (EI)",2005,0.16402641
+"Other Northern Africa (EI)",2006,0.1132607
+"Other Northern Africa (EI)",2007,0.08317253
+"Other Northern Africa (EI)",2008,0.06768482
+"Other Northern Africa (EI)",2009,0.14055935
+"Other Northern Africa (EI)",2010,0.1462228
+"Other Northern Africa (EI)",2011,0.17677447
+"Other Northern Africa (EI)",2012,0.27315995
+"Other Northern Africa (EI)",2013,0.34765056
+"Other Northern Africa (EI)",2014,0.48322013
+"Other Northern Africa (EI)",2015,0.5014605
+"Other Northern Africa (EI)",2016,0.5226844
+"Other Northern Africa (EI)",2017,0.44476175
+"Other Northern Africa (EI)",2018,0.46815777
+"Other Northern Africa (EI)",2019,0.5775295
+"Other Northern Africa (EI)",2020,0.67234546
+"Other Northern Africa (EI)",2021,0.44433054
+"Other Northern Africa (EI)",2022,0.41771358
+"Other Northern Africa (EI)",2023,0.50445056
+"Other Northern Africa (EI)",2024,0.5769965
+"Other South America (EI)",1990,63.048435
+"Other South America (EI)",1991,62.653244
+"Other South America (EI)",1992,61.062386
+"Other South America (EI)",1993,62.408398
+"Other South America (EI)",1994,63.91672
+"Other South America (EI)",1995,63.28361
+"Other South America (EI)",1996,63.5248
+"Other South America (EI)",1997,66.484825
+"Other South America (EI)",1998,66.79848
+"Other South America (EI)",1999,63.855385
+"Other South America (EI)",2000,67.49334
+"Other South America (EI)",2001,66.48224
+"Other South America (EI)",2002,67.4665
+"Other South America (EI)",2003,67.07329
+"Other South America (EI)",2004,64.14746
+"Other South America (EI)",2005,63.47931
+"Other South America (EI)",2006,62.546917
+"Other South America (EI)",2007,62.076687
+"Other South America (EI)",2008,58.878845
+"Other South America (EI)",2009,58.055477
+"Other South America (EI)",2010,58.64916
+"Other South America (EI)",2011,57.043533
+"Other South America (EI)",2012,57.10272
+"Other South America (EI)",2013,57.371895
+"Other South America (EI)",2014,55.91478
+"Other South America (EI)",2015,55.988445
+"Other South America (EI)",2016,57.234566
+"Other South America (EI)",2017,55.505466
+"Other South America (EI)",2018,54.581852
+"Other South America (EI)",2019,51.78088
+"Other South America (EI)",2020,52.38367
+"Other South America (EI)",2021,47.347744
+"Other South America (EI)",2022,47.809074
+"Other South America (EI)",2023,49.228844
+"Other South America (EI)",2024,44.72206
+"Other Southern Africa (EI)",1990,14.928985
+"Other Southern Africa (EI)",1991,16.66118
+"Other Southern Africa (EI)",1992,14.06305
+"Other Southern Africa (EI)",1993,13.224851
+"Other Southern Africa (EI)",1994,10.078714
+"Other Southern Africa (EI)",1995,13.945117
+"Other Southern Africa (EI)",1996,12.099045
+"Other Southern Africa (EI)",1997,9.495154
+"Other Southern Africa (EI)",1998,11.737691
+"Other Southern Africa (EI)",1999,15.377002
+"Other Southern Africa (EI)",2000,15.966817
+"Other Southern Africa (EI)",2001,14.6389475
+"Other Southern Africa (EI)",2002,16.050322
+"Other Southern Africa (EI)",2003,15.649655
+"Other Southern Africa (EI)",2004,14.868441
+"Other Southern Africa (EI)",2005,16.3806
+"Other Southern Africa (EI)",2006,15.857796
+"Other Southern Africa (EI)",2007,15.694639
+"Other Southern Africa (EI)",2008,13.886902
+"Other Southern Africa (EI)",2009,13.903297
+"Other Southern Africa (EI)",2010,15.36085
+"Other Southern Africa (EI)",2011,15.282766
+"Other Southern Africa (EI)",2012,14.583348
+"Other Southern Africa (EI)",2013,12.797155
+"Other Southern Africa (EI)",2014,12.808484
+"Other Southern Africa (EI)",2015,12.255636
+"Other Southern Africa (EI)",2016,10.812713
+"Other Southern Africa (EI)",2017,11.823923
+"Other Southern Africa (EI)",2018,10.034603
+"Other Southern Africa (EI)",2019,10.196627
+"Other Southern Africa (EI)",2020,14.282579
+"Other Southern Africa (EI)",2021,11.563332
+"Other Southern Africa (EI)",2022,10.8206625
+"Other Southern Africa (EI)",2023,13.385466
+"Other Southern Africa (EI)",2024,15.234232
+"Pakistan",1990,15.693691
+"Pakistan",1991,15.850943
+"Pakistan",1992,16.46807
+"Pakistan",1993,16.362276
+"Pakistan",1994,15.511971
+"Pakistan",1995,15.540952
+"Pakistan",1996,15.90927
+"Pakistan",1997,12.21315
+"Pakistan",1998,14.897761
+"Pakistan",1999,12.7133875
+"Pakistan",2000,10.7534075
+"Pakistan",2001,10.829427
+"Pakistan",2002,11.550942
+"Pakistan",2003,12.78366
+"Pakistan",2004,12.11492
+"Pakistan",2005,12.979694
+"Pakistan",2006,11.9955
+"Pakistan",2007,11.83975
+"Pakistan",2008,10.10512
+"Pakistan",2009,10.193737
+"Pakistan",2010,10.435932
+"Pakistan",2011,10.6061125
+"Pakistan",2012,3.988789
+"Pakistan",2013,10.559191
+"Pakistan",2014,10.733071
+"Pakistan",2015,10.407177
+"Pakistan",2016,10.285707
+"Pakistan",2017,8.975143
+"Pakistan",2018,8.879482
+"Pakistan",2019,10.438256
+"Pakistan",2020,11.468369
+"Pakistan",2021,9.927477
+"Pakistan",2022,10.570694
+"Pakistan",2023,12.265969
+"Pakistan",2024,12.506971
+"Peru",1990,28.065334
+"Peru",1991,31.069921
+"Peru",1992,26.89661
+"Peru",1993,29.879095
+"Peru",1994,29.688486
+"Peru",1995,27.773472
+"Peru",1996,27.724432
+"Peru",1997,28.091204
+"Peru",1998,28.376726
+"Peru",1999,29.158125
+"Peru",2000,31.45016
+"Peru",2001,34.392075
+"Peru",2002,34.293224
+"Peru",2003,35.518898
+"Peru",2004,31.151722
+"Peru",2005,30.82667
+"Peru",2006,33.532017
+"Peru",2007,30.645456
+"Peru",2008,27.606207
+"Peru",2009,28.469381
+"Peru",2010,25.51332
+"Peru",2011,24.656002
+"Peru",2012,24.827293
+"Peru",2013,24.990833
+"Peru",2014,24.771715
+"Peru",2015,24.890127
+"Peru",2016,23.559713
+"Peru",2017,27.62361
+"Peru",2018,28.24695
+"Peru",2019,28.051004
+"Peru",2020,31.11316
+"Peru",2021,28.608381
+"Peru",2022,26.155003
+"Peru",2023,25.562147
+"Peru",2024,26.65619
+"Philippines",1990,18.762526
+"Philippines",1991,17.444744
+"Philippines",1992,15.152764
+"Philippines",1993,14.536428
+"Philippines",1994,15.869477
+"Philippines",1995,14.080224
+"Philippines",1996,14.3869095
+"Philippines",1997,13.017645
+"Philippines",1998,13.896394
+"Philippines",1999,17.887016
+"Philippines",2000,18.728762
+"Philippines",2001,17.257412
+"Philippines",2002,16.848028
+"Philippines",2003,16.611923
+"Philippines",2004,17.23799
+"Philippines",2005,16.653309
+"Philippines",2006,19.318235
+"Philippines",2007,17.341223
+"Philippines",2008,18.352348
+"Philippines",2009,17.917276
+"Philippines",2010,15.666685
+"Philippines",2011,16.874098
+"Philippines",2012,17.17684
+"Philippines",2013,15.492659
+"Philippines",2014,14.803544
+"Philippines",2015,14.374724
+"Philippines",2016,13.798237
+"Philippines",2017,13.161093
+"Philippines",2018,12.8305855
+"Philippines",2019,11.973704
+"Philippines",2020,12.826756
+"Philippines",2021,12.947764
+"Philippines",2022,13.031899
+"Philippines",2023,12.921859
+"Philippines",2024,12.818433
+"Poland",1990,0.33948275
+"Poland",1991,0.35625452
+"Poland",1992,0.40039834
+"Poland",1993,0.38211796
+"Poland",1994,0.45926863
+"Poland",1995,0.49205333
+"Poland",1996,0.49669468
+"Poland",1997,0.5190956
+"Poland",1998,0.6443823
+"Poland",1999,0.60983217
+"Poland",2000,0.6444117
+"Poland",2001,0.7770989
+"Poland",2002,0.7752067
+"Poland",2003,0.642295
+"Poland",2004,0.84945333
+"Poland",2005,1.0881159
+"Poland",2006,1.203001
+"Poland",2007,1.5145324
+"Poland",2008,2.1538193
+"Poland",2009,2.9232028
+"Poland",2010,3.3793359
+"Poland",2011,3.9592514
+"Poland",2012,5.129951
+"Poland",2013,5.0515428
+"Poland",2014,5.9222417
+"Poland",2015,6.386764
+"Poland",2016,5.877876
+"Poland",2017,5.923536
+"Poland",2018,5.620995
+"Poland",2019,6.7103744
+"Poland",2020,7.6632853
+"Poland",2021,7.5987234
+"Poland",2022,9.369889
+"Poland",2023,11.751781
+"Poland",2024,13.04527
+"Portugal",1990,13.7358465
+"Portugal",1991,13.24756
+"Portugal",1992,7.33916
+"Portugal",1993,12.160641
+"Portugal",1994,14.333634
+"Portugal",1995,10.868327
+"Portugal",1996,17.709558
+"Portugal",1997,15.71398
+"Portugal",1998,14.322419
+"Portugal",1999,8.619417
+"Portugal",2000,12.409293
+"Portugal",2001,14.857823
+"Portugal",2002,9.232656
+"Portugal",2003,16.157108
+"Portugal",2004,11.474528
+"Portugal",2005,7.7011347
+"Portugal",2006,14.807742
+"Portugal",2007,15.435332
+"Portugal",2008,14.553419
+"Portugal",2009,18.13303
+"Portugal",2010,26.401539
+"Portugal",2011,23.6596
+"Portugal",2012,20.965197
+"Portugal",2013,28.202065
+"Portugal",2014,29.760853
+"Portugal",2015,23.684952
+"Portugal",2016,28.267733
+"Portugal",2017,20.605705
+"Portugal",2018,26.20047
+"Portugal",2019,25.366495
+"Portugal",2020,30.634943
+"Portugal",2021,32.196686
+"Portugal",2022,28.753206
+"Portugal",2023,34.669537
+"Portugal",2024,39.74076
+"Qatar",1990,0
+"Qatar",1991,0
+"Qatar",1992,0
+"Qatar",1993,0
+"Qatar",1994,0
+"Qatar",1995,0
+"Qatar",1996,0
+"Qatar",1997,0
+"Qatar",1998,0
+"Qatar",1999,0
+"Qatar",2000,0
+"Qatar",2001,0
+"Qatar",2002,0
+"Qatar",2003,0
+"Qatar",2004,0
+"Qatar",2005,0
+"Qatar",2006,0
+"Qatar",2007,0
+"Qatar",2008,0
+"Qatar",2009,0
+"Qatar",2010,0
+"Qatar",2011,0.008304597
+"Qatar",2012,0.007277364
+"Qatar",2013,0.051391833
+"Qatar",2014,0.06472293
+"Qatar",2015,0.0653996
+"Qatar",2016,0.069000214
+"Qatar",2017,0.07514493
+"Qatar",2018,0.076951675
+"Qatar",2019,0.0663235
+"Qatar",2020,0.085831
+"Qatar",2021,0.0809046
+"Qatar",2022,0.19232824
+"Qatar",2023,0.8158959
+"Qatar",2024,0.81071275
+"Romania",1990,4.3241405
+"Romania",1991,6.516609
+"Romania",1992,5.9255586
+"Romania",1993,6.655574
+"Romania",1994,7.2115345
+"Romania",1995,8.403138
+"Romania",1996,7.9789
+"Romania",1997,9.362155
+"Romania",1998,11.044238
+"Romania",1999,12.166586
+"Romania",2000,9.83569
+"Romania",2001,9.764506
+"Romania",2002,10.0368595
+"Romania",2003,8.238626
+"Romania",2004,9.8141985
+"Romania",2005,11.901315
+"Romania",2006,10.577703
+"Romania",2007,9.612095
+"Romania",2008,10.316839
+"Romania",2009,10.620992
+"Romania",2010,13.830446
+"Romania",2011,10.997363
+"Romania",2012,10.404408
+"Romania",2013,14.507258
+"Romania",2014,17.51321
+"Romania",2015,18.196003
+"Romania",2016,18.86743
+"Romania",2017,16.748291
+"Romania",2018,17.773447
+"Romania",2019,17.297361
+"Romania",2020,18.117058
+"Romania",2021,18.153149
+"Romania",2022,17.783123
+"Romania",2023,20.908308
+"Romania",2024,19.111818
+"Russia",1990,4.6185546
+"Russia",1991,4.717847
+"Russia",1992,5.0335536
+"Russia",1993,5.4536147
+"Russia",1994,6.034691
+"Russia",1995,6.390263
+"Russia",1996,5.811246
+"Russia",1997,6.271143
+"Russia",1998,6.325267
+"Russia",1999,6.325683
+"Russia",2000,6.3539915
+"Russia",2001,6.5946016
+"Russia",2002,6.127024
+"Russia",2003,5.7380548
+"Russia",2004,6.3872137
+"Russia",2005,6.234997
+"Russia",2006,5.961686
+"Russia",2007,6.025334
+"Russia",2008,5.539061
+"Russia",2009,6.130064
+"Russia",2010,5.597348
+"Russia",2011,5.2735047
+"Russia",2012,5.2256975
+"Russia",2013,5.8161182
+"Russia",2014,5.531415
+"Russia",2015,5.4226403
+"Russia",2016,5.807339
+"Russia",2017,5.7689853
+"Russia",2018,5.7089195
+"Russia",2019,5.85523
+"Russia",2020,6.678781
+"Russia",2021,6.586404
+"Russia",2022,5.920469
+"Russia",2023,5.913319
+"Russia",2024,5.999395
+"Saudi Arabia",1990,0
+"Saudi Arabia",1991,0
+"Saudi Arabia",1992,0
+"Saudi Arabia",1993,0
+"Saudi Arabia",1994,0
+"Saudi Arabia",1995,0
+"Saudi Arabia",1996,0
+"Saudi Arabia",1997,0
+"Saudi Arabia",1998,0
+"Saudi Arabia",1999,0
+"Saudi Arabia",2000,0
+"Saudi Arabia",2001,0
+"Saudi Arabia",2002,0
+"Saudi Arabia",2003,0
+"Saudi Arabia",2004,0
+"Saudi Arabia",2005,0
+"Saudi Arabia",2006,0
+"Saudi Arabia",2007,0
+"Saudi Arabia",2008,7.55e-05
+"Saudi Arabia",2009,7.25e-05
+"Saudi Arabia",2010,0.000434434
+"Saudi Arabia",2011,0.000546239
+"Saudi Arabia",2012,0.002434404
+"Saudi Arabia",2013,0.003977416
+"Saudi Arabia",2014,0.003982166
+"Saudi Arabia",2015,0.003800096
+"Saudi Arabia",2016,0.003625309
+"Saudi Arabia",2017,0.005488546
+"Saudi Arabia",2018,0.013177553
+"Saudi Arabia",2019,0.017720161
+"Saudi Arabia",2020,0.078363046
+"Saudi Arabia",2021,0.08259208
+"Saudi Arabia",2022,0.1567925
+"Saudi Arabia",2023,0.35929954
+"Saudi Arabia",2024,0.7283918
+"Singapore",1990,0.09726366
+"Singapore",1991,0.2751093
+"Singapore",1992,0.2564298
+"Singapore",1993,0.23471357
+"Singapore",1994,0.2052245
+"Singapore",1995,0.196857
+"Singapore",1996,0.19508325
+"Singapore",1997,0.18547828
+"Singapore",1998,0.18294819
+"Singapore",1999,0.18479532
+"Singapore",2000,0.17282811
+"Singapore",2001,0.29521835
+"Singapore",2002,0.30653244
+"Singapore",2003,0.34054095
+"Singapore",2004,0.29151094
+"Singapore",2005,0.27526557
+"Singapore",2006,0.24725
+"Singapore",2007,0.23787805
+"Singapore",2008,0.2358275
+"Singapore",2009,0.22255981
+"Singapore",2010,0.23269218
+"Singapore",2011,0.23102067
+"Singapore",2012,0.24153683
+"Singapore",2013,0.26539204
+"Singapore",2014,0.27731833
+"Singapore",2015,0.29200265
+"Singapore",2016,0.28382972
+"Singapore",2017,0.2767103
+"Singapore",2018,0.2736794
+"Singapore",2019,0.29325968
+"Singapore",2020,0.31411594
+"Singapore",2021,0.3376918
+"Singapore",2022,0.5213485
+"Singapore",2023,0.49312237
+"Singapore",2024,0.5452378
+"Slovakia",1990,2.1117134
+"Slovakia",1991,1.767831
+"Slovakia",1992,2.5292287
+"Slovakia",1993,4.615238
+"Slovakia",1994,5.892162
+"Slovakia",1995,6.511099
+"Slovakia",1996,5.597323
+"Slovakia",1997,5.481863
+"Slovakia",1998,5.696381
+"Slovakia",1999,5.92623
+"Slovakia",2000,5.9230037
+"Slovakia",2001,6.4795485
+"Slovakia",2002,6.657926
+"Slovakia",2003,4.4988313
+"Slovakia",2004,5.2484975
+"Slovakia",2005,5.6582713
+"Slovakia",2006,6.1773915
+"Slovakia",2007,6.8436675
+"Slovakia",2008,6.2377963
+"Slovakia",2009,7.4104877
+"Slovakia",2010,8.313801
+"Slovakia",2011,7.509848
+"Slovakia",2012,8.348838
+"Slovakia",2013,9.315094
+"Slovakia",2014,10.175566
+"Slovakia",2015,9.930641
+"Slovakia",2016,10.576948
+"Slovakia",2017,9.896002
+"Slovakia",2018,9.0469055
+"Slovakia",2019,10.548755
+"Slovakia",2020,11.039277
+"Slovakia",2021,10.213474
+"Slovakia",2022,9.672483
+"Slovakia",2023,10.552875
+"Slovakia",2024,11.295315
+"Slovenia",1990,12.088249
+"Slovenia",1991,14.667435
+"Slovenia",1992,14.881296
+"Slovenia",1993,12.807986
+"Slovenia",1994,13.490716
+"Slovenia",1995,12.293284
+"Slovenia",1996,13.216832
+"Slovenia",1997,10.879897
+"Slovenia",1998,12.120791
+"Slovenia",1999,13.414869
+"Slovenia",2000,14.026292
+"Slovenia",2001,13.1811075
+"Slovenia",2002,11.619204
+"Slovenia",2003,10.626739
+"Slovenia",2004,13.64027
+"Slovenia",2005,11.438244
+"Slovenia",2006,11.735153
+"Slovenia",2007,10.853186
+"Slovenia",2008,12.745639
+"Slovenia",2009,15.641199
+"Slovenia",2010,15.2275305
+"Slovenia",2011,12.763015
+"Slovenia",2012,14.747408
+"Slovenia",2013,17.451124
+"Slovenia",2014,21.441113
+"Slovenia",2015,15.619395
+"Slovenia",2016,16.630552
+"Slovenia",2017,14.549611
+"Slovenia",2018,17.277668
+"Slovenia",2019,17.430365
+"Slovenia",2020,19.77838
+"Slovenia",2021,19.610497
+"Slovenia",2022,15.911842
+"Slovenia",2023,23.025827
+"Slovenia",2024,24.735876
+"South Africa",1990,0.2726532
+"South Africa",1991,0.53850454
+"South Africa",1992,0.20352626
+"South Africa",1993,0.039574187
+"South Africa",1994,0.27919784
+"South Africa",1995,0.13158263
+"South Africa",1996,0.3381915
+"South Africa",1997,0.5382469
+"South Africa",1998,0.45042208
+"South Africa",1999,0.22254096
+"South Africa",2000,0.386394
+"South Africa",2001,0.51286584
+"South Africa",2002,0.6614811
+"South Africa",2003,0.32830688
+"South Africa",2004,0.3265353
+"South Africa",2005,0.38413224
+"South Africa",2006,0.6920069
+"South Africa",2007,0.7227087
+"South Africa",2008,0.37311107
+"South Africa",2009,0.3895323
+"South Africa",2010,0.309906
+"South Africa",2011,0.6918544
+"South Africa",2012,0.3576339
+"South Africa",2013,0.39710414
+"South Africa",2014,0.81018883
+"South Africa",2015,1.29032
+"South Africa",2016,1.4823065
+"South Africa",2017,2.1600735
+"South Africa",2018,2.2899694
+"South Africa",2019,2.2399826
+"South Africa",2020,2.5822897
+"South Africa",2021,3.2473845
+"South Africa",2022,3.6482332
+"South Africa",2023,3.7571616
+"South Africa",2024,3.5567286
+"South America",1990,31.355978
+"South America",1991,32.338715
+"South America",1992,31.754276
+"South America",1993,32.803555
+"South America",1994,32.874607
+"South America",1995,32.485783
+"South America",1996,32.33265
+"South America",1997,32.306618
+"South America",1998,32.000946
+"South America",1999,31.97638
+"South America",2000,32.497177
+"South America",2001,30.74488
+"South America",2002,31.931236
+"South America",2003,32.980175
+"South America",2004,32.076042
+"South America",2005,32.72878
+"South America",2006,32.351814
+"South America",2007,32.331497
+"South America",2008,32.017426
+"South America",2009,33.333736
+"South America",2010,32.252796
+"South America",2011,32.30567
+"South America",2012,30.767342
+"South America",2013,29.704737
+"South America",2014,29.404955
+"South America",2015,29.99108
+"South America",2016,30.987093
+"South America",2017,32.00229
+"South America",2018,33.928593
+"South America",2019,34.838486
+"South America",2020,37.32352
+"South America",2021,34.480988
+"South America",2022,36.277466
+"South America",2023,37.50569
+"South America",2024,37.832787
+"South Korea",1990,1.2108697
+"South Korea",1991,0.79333895
+"South Korea",1992,0.6271529
+"South Korea",1993,0.7804497
+"South Korea",1994,0.4008217
+"South Korea",1995,0.47600058
+"South Korea",1996,0.40813407
+"South Korea",1997,0.37682396
+"South Korea",1998,0.617086
+"South Korea",1999,0.55575603
+"South Korea",2000,0.50788707
+"South Korea",2001,0.2929415
+"South Korea",2002,0.39274833
+"South Korea",2003,0.5620512
+"South Korea",2004,0.4988534
+"South Korea",2005,0.4205607
+"South Korea",2006,0.42015433
+"South Korea",2007,0.47698417
+"South Korea",2008,0.5023927
+"South Korea",2009,0.54491127
+"South Korea",2010,0.6298219
+"South Korea",2011,0.74279803
+"South Korea",2012,0.8157147
+"South Korea",2013,0.99865013
+"South Korea",2014,1.259366
+"South Korea",2015,1.4513619
+"South Korea",2016,1.6504588
+"South Korea",2017,1.9714482
+"South Korea",2018,2.3837214
+"South Korea",2019,2.8068886
+"South Korea",2020,3.4662952
+"South Korea",2021,3.8773115
+"South Korea",2022,4.3325253
+"South Korea",2023,4.6598625
+"South Korea",2024,4.748179
+"South and Central America (EI)",1990,28.441198
+"South and Central America (EI)",1991,29.357002
+"South and Central America (EI)",1992,28.907398
+"South and Central America (EI)",1993,29.819286
+"South and Central America (EI)",1994,29.776707
+"South and Central America (EI)",1995,29.449726
+"South and Central America (EI)",1996,29.38811
+"South and Central America (EI)",1997,29.296417
+"South and Central America (EI)",1998,28.929138
+"South and Central America (EI)",1999,29.070044
+"South and Central America (EI)",2000,29.139631
+"South and Central America (EI)",2001,27.300695
+"South and Central America (EI)",2002,28.25456
+"South and Central America (EI)",2003,29.036446
+"South and Central America (EI)",2004,28.399817
+"South and Central America (EI)",2005,28.981874
+"South and Central America (EI)",2006,28.579514
+"South and Central America (EI)",2007,28.714668
+"South and Central America (EI)",2008,28.738626
+"South and Central America (EI)",2009,29.979446
+"South and Central America (EI)",2010,29.159725
+"South and Central America (EI)",2011,29.319847
+"South and Central America (EI)",2012,28.18682
+"South and Central America (EI)",2013,27.371632
+"South and Central America (EI)",2014,27.087002
+"South and Central America (EI)",2015,27.529158
+"South and Central America (EI)",2016,28.439116
+"South and Central America (EI)",2017,29.439772
+"South and Central America (EI)",2018,31.126286
+"South and Central America (EI)",2019,31.732925
+"South and Central America (EI)",2020,34.377037
+"South and Central America (EI)",2021,31.981524
+"South and Central America (EI)",2022,33.62554
+"South and Central America (EI)",2023,34.58056
+"South and Central America (EI)",2024,34.879242
+"Spain",1990,6.8189745
+"Spain",1991,7.060038
+"Spain",1992,4.74343
+"Spain",1993,6.273599
+"Spain",1994,6.92714
+"Spain",1995,5.623783
+"Spain",1996,9.155758
+"Spain",1997,7.8966756
+"Spain",1998,7.5344834
+"Spain",1999,5.3413296
+"Spain",2000,6.59801
+"Spain",2001,8.709262
+"Spain",2002,6.0164313
+"Spain",2003,9.206891
+"Spain",2004,8.0197115
+"Spain",2005,6.4418535
+"Spain",2006,7.9334793
+"Spain",2007,8.869269
+"Spain",2008,9.9720745
+"Spain",2009,12.912886
+"Spain",2010,16.490276
+"Spain",2011,15.328785
+"Spain",2012,15.917162
+"Spain",2013,19.290365
+"Spain",2014,19.445473
+"Spain",2015,16.977324
+"Spain",2016,18.117424
+"Spain",2017,15.319087
+"Spain",2018,17.922855
+"Spain",2019,17.063374
+"Spain",2020,21.929209
+"Spain",2021,22.27165
+"Spain",2022,20.876808
+"Spain",2023,24.822027
+"Spain",2024,25.862646
+"Sri Lanka",1990,29.790382
+"Sri Lanka",1991,29.579105
+"Sri Lanka",1992,25.589548
+"Sri Lanka",1993,30.813177
+"Sri Lanka",1994,30.635475
+"Sri Lanka",1995,31.403461
+"Sri Lanka",1996,21.368847
+"Sri Lanka",1997,21.954735
+"Sri Lanka",1998,23.40995
+"Sri Lanka",1999,23.241686
+"Sri Lanka",2000,16.822605
+"Sri Lanka",2001,16.752289
+"Sri Lanka",2002,13.979145
+"Sri Lanka",2003,16.627981
+"Sri Lanka",2004,15.216132
+"Sri Lanka",2005,15.24355
+"Sri Lanka",2006,18.984407
+"Sri Lanka",2007,15.796608
+"Sri Lanka",2008,17.441853
+"Sri Lanka",2009,16.162016
+"Sri Lanka",2010,21.793499
+"Sri Lanka",2011,16.357983
+"Sri Lanka",2012,11.61024
+"Sri Lanka",2013,23.640152
+"Sri Lanka",2014,14.695231
+"Sri Lanka",2015,18.06865
+"Sri Lanka",2016,11.919874
+"Sri Lanka",2017,11.102259
+"Sri Lanka",2018,16.0293
+"Sri Lanka",2019,12.824314
+"Sri Lanka",2020,14.88963
+"Sri Lanka",2021,21.004633
+"Sri Lanka",2022,23.448969
+"Sri Lanka",2023,20.968931
+"Sri Lanka",2024,23.249748
+"Sweden",1990,33.0941
+"Sweden",1991,28.99599
+"Sweden",1992,33.494484
+"Sweden",1993,34.015804
+"Sweden",1994,26.996574
+"Sweden",1995,30.273647
+"Sweden",1996,23.688955
+"Sweden",1997,30.620182
+"Sweden",1998,31.588509
+"Sweden",1999,31.010633
+"Sweden",2000,36.65572
+"Sweden",2001,34.202785
+"Sweden",2002,31.103418
+"Sweden",2003,27.30538
+"Sweden",2004,29.336147
+"Sweden",2005,33.911415
+"Sweden",2006,31.833075
+"Sweden",2007,34.159508
+"Sweden",2008,36.04815
+"Sweden",2009,38.65646
+"Sweden",2010,37.370335
+"Sweden",2011,38.675858
+"Sweden",2012,42.3462
+"Sweden",2013,38.2202
+"Sweden",2014,39.70318
+"Sweden",2015,45.535107
+"Sweden",2016,40.905605
+"Sweden",2017,41.625465
+"Sweden",2018,41.606827
+"Sweden",2019,43.746517
+"Sweden",2020,51.05583
+"Sweden",2021,50.009987
+"Sweden",2022,52.433502
+"Sweden",2023,52.458923
+"Sweden",2024,51.31793
+"Switzerland",1990,25.901928
+"Switzerland",1991,27.135872
+"Switzerland",1992,27.265522
+"Switzerland",1993,29.894827
+"Switzerland",1994,31.105942
+"Switzerland",1995,29.600357
+"Switzerland",1996,25.121393
+"Switzerland",1997,27.801388
+"Switzerland",1998,27.211456
+"Switzerland",1999,31.122368
+"Switzerland",2000,29.476492
+"Switzerland",2001,30.747568
+"Switzerland",2002,28.020714
+"Switzerland",2003,27.866379
+"Switzerland",2004,27.041227
+"Switzerland",2005,26.139725
+"Switzerland",2006,25.216665
+"Switzerland",2007,28.119028
+"Switzerland",2008,27.972147
+"Switzerland",2009,28.183937
+"Switzerland",2010,27.969475
+"Switzerland",2011,27.143543
+"Switzerland",2012,30.448433
+"Switzerland",2013,29.926266
+"Switzerland",2014,31.115068
+"Switzerland",2015,32.12223
+"Switzerland",2016,31.375622
+"Switzerland",2017,31.292732
+"Switzerland",2018,31.434002
+"Switzerland",2019,32.558853
+"Switzerland",2020,35.59849
+"Switzerland",2021,37.27572
+"Switzerland",2022,31.095837
+"Switzerland",2023,35.635983
+"Switzerland",2024,39.8679
+"Taiwan",1990,3.1640792
+"Taiwan",1991,1.8657628
+"Taiwan",1992,2.9157019
+"Taiwan",1993,1.7566915
+"Taiwan",1994,2.026409
+"Taiwan",1995,1.8783922
+"Taiwan",1996,1.8042998
+"Taiwan",1997,1.8872128
+"Taiwan",1998,2.10303
+"Taiwan",1999,1.7227668
+"Taiwan",2000,1.5663152
+"Taiwan",2001,1.7341826
+"Taiwan",2002,1.158006
+"Taiwan",2003,1.2143278
+"Taiwan",2004,1.221969
+"Taiwan",2005,1.4086279
+"Taiwan",2006,1.4112449
+"Taiwan",2007,1.5311207
+"Taiwan",2008,1.5131664
+"Taiwan",2009,1.4682764
+"Taiwan",2010,1.532374
+"Taiwan",2011,1.6043093
+"Taiwan",2012,1.9710166
+"Taiwan",2013,1.9640555
+"Taiwan",2014,1.687575
+"Taiwan",2015,1.7595942
+"Taiwan",2016,2.162195
+"Taiwan",2017,2.089095
+"Taiwan",2018,2.093776
+"Taiwan",2019,2.6114068
+"Taiwan",2020,2.6757972
+"Taiwan",2021,2.9319742
+"Taiwan",2022,4.2349353
+"Taiwan",2023,5.0049877
+"Taiwan",2024,6.2682457
+"Thailand",1990,3.877864
+"Thailand",1991,3.2356648
+"Thailand",1992,2.7242527
+"Thailand",1993,2.0918102
+"Thailand",1994,2.2775457
+"Thailand",1995,3.0560005
+"Thailand",1996,2.9783044
+"Thailand",1997,2.8067074
+"Thailand",1998,2.2404234
+"Thailand",1999,1.5209678
+"Thailand",2000,2.4320366
+"Thailand",2001,2.432144
+"Thailand",2002,2.6618729
+"Thailand",2003,2.5803251
+"Thailand",2004,2.2042708
+"Thailand",2005,2.107552
+"Thailand",2006,2.724441
+"Thailand",2007,2.8317242
+"Thailand",2008,2.8623428
+"Thailand",2009,2.9795134
+"Thailand",2010,2.7503529
+"Thailand",2011,3.4417028
+"Thailand",2012,3.781315
+"Thailand",2013,3.8004148
+"Thailand",2014,4.2395444
+"Thailand",2015,4.201601
+"Thailand",2016,4.617123
+"Thailand",2017,5.317632
+"Thailand",2018,6.378996
+"Thailand",2019,6.950582
+"Thailand",2020,6.9699163
+"Thailand",2021,7.034393
+"Thailand",2022,7.247943
+"Thailand",2023,7.6081514
+"Thailand",2024,7.4027457
+"Trinidad and Tobago",1990,0.13919248
+"Trinidad and Tobago",1991,0.11259284
+"Trinidad and Tobago",1992,0.12764753
+"Trinidad and Tobago",1993,0.113026254
+"Trinidad and Tobago",1994,0.12189009
+"Trinidad and Tobago",1995,0.11591018
+"Trinidad and Tobago",1996,0.052703317
+"Trinidad and Tobago",1997,0.055817984
+"Trinidad and Tobago",1998,0.05499081
+"Trinidad and Tobago",1999,0.04947758
+"Trinidad and Tobago",2000,0.053741634
+"Trinidad and Tobago",2001,0.07363121
+"Trinidad and Tobago",2002,0.060162745
+"Trinidad and Tobago",2003,0.027575735
+"Trinidad and Tobago",2004,0.046451278
+"Trinidad and Tobago",2005,0.04065795
+"Trinidad and Tobago",2006,0.04126056
+"Trinidad and Tobago",2007,0.030767666
+"Trinidad and Tobago",2008,0.032934166
+"Trinidad and Tobago",2009,0.032201733
+"Trinidad and Tobago",2010,0.004915699
+"Trinidad and Tobago",2011,0.004953476
+"Trinidad and Tobago",2012,0.007104995
+"Trinidad and Tobago",2013,0.006968472
+"Trinidad and Tobago",2014,0.00692527
+"Trinidad and Tobago",2015,0.007144827
+"Trinidad and Tobago",2016,0.008027764
+"Trinidad and Tobago",2017,0.007551941
+"Trinidad and Tobago",2018,0.008018911
+"Trinidad and Tobago",2019,0.007931608
+"Trinidad and Tobago",2020,0.009120251
+"Trinidad and Tobago",2021,0.008899091
+"Trinidad and Tobago",2022,0.008880703
+"Trinidad and Tobago",2023,0.009318239
+"Trinidad and Tobago",2024,0.010788339
+"Turkey",1990,11.5849695
+"Turkey",1991,11.137753
+"Turkey",1992,12.401254
+"Turkey",1993,14.5921545
+"Turkey",1994,13.571032
+"Turkey",1995,14.165338
+"Turkey",1996,14.756494
+"Turkey",1997,13.91742
+"Turkey",1998,14.376533
+"Turkey",1999,12.090448
+"Turkey",2000,10.095571
+"Turkey",2001,8.632096
+"Turkey",2002,10.917991
+"Turkey",2003,10.734353
+"Turkey",2004,12.999957
+"Turkey",2005,10.807185
+"Turkey",2006,10.873855
+"Turkey",2007,8.325992
+"Turkey",2008,7.7843437
+"Turkey",2009,8.471884
+"Turkey",2010,11.710368
+"Turkey",2011,11.392329
+"Turkey",2012,12.031112
+"Turkey",2013,13.033268
+"Turkey",2014,9.500809
+"Turkey",2015,13.672968
+"Turkey",2016,13.98593
+"Turkey",2017,12.631601
+"Turkey",2018,14.129833
+"Turkey",2019,18.383698
+"Turkey",2020,18.102613
+"Turkey",2021,15.69624
+"Turkey",2022,18.035873
+"Turkey",2023,18.325584
+"Turkey",2024,19.78555
+"Turkmenistan",1990,0.005175744
+"Turkmenistan",1991,0.005698852
+"Turkmenistan",1992,0.008451529
+"Turkmenistan",1993,0.010910505
+"Turkmenistan",1994,0.008194394
+"Turkmenistan",1995,0.010656185
+"Turkmenistan",1996,0.008788111
+"Turkmenistan",1997,0.011278872
+"Turkmenistan",1998,0.011850688
+"Turkmenistan",1999,0.011266127
+"Turkmenistan",2000,0.006724968
+"Turkmenistan",2001,0.005735001
+"Turkmenistan",2002,0.006629427
+"Turkmenistan",2003,0.005116591
+"Turkmenistan",2004,0.004567285
+"Turkmenistan",2005,0.00483816
+"Turkmenistan",2006,0.004684016
+"Turkmenistan",2007,0.00505439
+"Turkmenistan",2008,0.005372022
+"Turkmenistan",2009,0.003652608
+"Turkmenistan",2010,0.003496813
+"Turkmenistan",2011,0.003503781
+"Turkmenistan",2012,0.003377471
+"Turkmenistan",2013,0.004780402
+"Turkmenistan",2014,0.005624929
+"Turkmenistan",2015,0.006578811
+"Turkmenistan",2016,0.007302166
+"Turkmenistan",2017,0.007814309
+"Turkmenistan",2018,0.006885271
+"Turkmenistan",2019,0.007138982
+"Turkmenistan",2020,0.005636626
+"Turkmenistan",2021,0.005598412
+"Turkmenistan",2022,0.005265348
+"Turkmenistan",2023,0.005623913
+"Turkmenistan",2024,0.00666179
+"Ukraine",1990,0.9160336
+"Ukraine",1991,1.0886203
+"Ukraine",1992,0.8673078
+"Ukraine",1993,1.3863738
+"Ukraine",1994,1.781419
+"Ukraine",1995,1.4995031
+"Ukraine",1996,1.3958652
+"Ukraine",1997,1.6528705
+"Ukraine",1998,2.7375402
+"Ukraine",1999,2.528877
+"Ukraine",2000,1.9846109
+"Ukraine",2001,2.1382825
+"Ukraine",2002,1.70912
+"Ukraine",2003,1.5928751
+"Ukraine",2004,2.0227644
+"Ukraine",2005,2.0860643
+"Ukraine",2006,2.1364205
+"Ukraine",2007,1.7362435
+"Ukraine",2008,2.01425
+"Ukraine",2009,2.4075785
+"Ukraine",2010,2.4636333
+"Ukraine",2011,1.9812615
+"Ukraine",2012,2.0209785
+"Ukraine",2013,2.8779476
+"Ukraine",2014,2.1985745
+"Ukraine",2015,1.8503942
+"Ukraine",2016,2.277203
+"Ukraine",2017,2.8698545
+"Ukraine",2018,3.282194
+"Ukraine",2019,3.2199564
+"Ukraine",2020,4.7072678
+"Ukraine",2021,5.8901844
+"Ukraine",2022,7.502861
+"Ukraine",2023,8.776944
+"Ukraine",2024,8.298777
+"United Arab Emirates",1990,0
+"United Arab Emirates",1991,0
+"United Arab Emirates",1992,0
+"United Arab Emirates",1993,0
+"United Arab Emirates",1994,0
+"United Arab Emirates",1995,0
+"United Arab Emirates",1996,0
+"United Arab Emirates",1997,0
+"United Arab Emirates",1998,0
+"United Arab Emirates",1999,0
+"United Arab Emirates",2000,0
+"United Arab Emirates",2001,0
+"United Arab Emirates",2002,0
+"United Arab Emirates",2003,0
+"United Arab Emirates",2004,0
+"United Arab Emirates",2005,0
+"United Arab Emirates",2006,0
+"United Arab Emirates",2007,0
+"United Arab Emirates",2008,0
+"United Arab Emirates",2009,0.001801818
+"United Arab Emirates",2010,0.004933649
+"United Arab Emirates",2011,0.005251749
+"United Arab Emirates",2012,0.005816928
+"United Arab Emirates",2013,0.019638853
+"United Arab Emirates",2014,0.06980533
+"United Arab Emirates",2015,0.062221255
+"United Arab Emirates",2016,0.0625434
+"United Arab Emirates",2017,0.15372168
+"United Arab Emirates",2018,0.26315713
+"United Arab Emirates",2019,0.7439356
+"United Arab Emirates",2020,1.0817803
+"United Arab Emirates",2021,1.2428938
+"United Arab Emirates",2022,1.411247
+"United Arab Emirates",2023,2.514485
+"United Arab Emirates",2024,2.5193515
+"United Kingdom",1990,0.64315045
+"United Kingdom",1991,0.5779747
+"United Kingdom",1992,0.70368606
+"United Kingdom",1993,0.63459617
+"United Kingdom",1994,0.7848496
+"United Kingdom",1995,0.75174713
+"United Kingdom",1996,0.61532766
+"United Kingdom",1997,0.78752273
+"United Kingdom",1998,0.9433471
+"United Kingdom",1999,1.0599864
+"United Kingdom",2000,1.0869671
+"United Kingdom",2001,1.0432147
+"United Kingdom",2002,1.2373027
+"United Kingdom",2003,1.194247
+"United Kingdom",2004,1.5487816
+"United Kingdom",2005,1.8603446
+"United Kingdom",2006,2.0468767
+"United Kingdom",2007,2.3372478
+"United Kingdom",2008,2.8096128
+"United Kingdom",2009,2.988894
+"United Kingdom",2010,3.0432706
+"United Kingdom",2011,4.2681527
+"United Kingdom",2012,4.868681
+"United Kingdom",2013,6.6554303
+"United Kingdom",2014,8.505534
+"United Kingdom",2015,10.561546
+"United Kingdom",2016,10.659087
+"United Kingdom",2017,12.440468
+"United Kingdom",2018,13.98007
+"United Kingdom",2019,15.684401
+"United Kingdom",2020,19.068272
+"United Kingdom",2021,17.482069
+"United Kingdom",2022,19.072384
+"United Kingdom",2023,19.976458
+"United Kingdom",2024,21.292688
+"United States",1990,4.515783
+"United States",1991,4.518919
+"United States",1992,4.083339
+"United States",1993,4.377474
+"United States",1994,4.076432
+"United States",1995,4.5511875
+"United States",1996,4.7913885
+"United States",1997,4.8841767
+"United States",1998,4.4887023
+"United States",1999,4.3828425
+"United States",2000,3.8559294
+"United States",2001,3.2874331
+"United States",2002,3.8508277
+"United States",2003,4.0120363
+"United States",2004,3.9444015
+"United States",2005,4.0551906
+"United States",2006,4.501956
+"United States",2007,4.2223315
+"United States",2008,4.8325415
+"United States",2009,5.601161
+"United States",2010,5.6417837
+"United States",2011,6.652554
+"United States",2012,6.6520786
+"United States",2013,6.8875813
+"United States",2014,7.0149126
+"United States",2015,7.219234
+"United States",2016,7.99331
+"United States",2017,8.754503
+"United States",2018,8.6396475
+"United States",2019,8.966625
+"United States",2020,10.12306
+"United States",2021,10.115881
+"United States",2022,10.874506
+"United States",2023,11.212399
+"United States",2024,12.050454
+"Upper-middle-income countries",1990,7.348104
+"Upper-middle-income countries",1991,7.3868246
+"Upper-middle-income countries",1992,7.5480537
+"Upper-middle-income countries",1993,8.151101
+"Upper-middle-income countries",1994,8.277386
+"Upper-middle-income countries",1995,8.667242
+"Upper-middle-income countries",1996,8.558958
+"Upper-middle-income countries",1997,8.582968
+"Upper-middle-income countries",1998,8.865117
+"Upper-middle-income countries",1999,8.661794
+"Upper-middle-income countries",2000,8.744393
+"Upper-middle-income countries",2001,8.610647
+"Upper-middle-income countries",2002,8.536831
+"Upper-middle-income countries",2003,7.8990617
+"Upper-middle-income countries",2004,7.9687667
+"Upper-middle-income countries",2005,7.848783
+"Upper-middle-income countries",2006,7.836303
+"Upper-middle-income countries",2007,7.804431
+"Upper-middle-income countries",2008,8.583852
+"Upper-middle-income countries",2009,8.49151
+"Upper-middle-income countries",2010,8.937661
+"Upper-middle-income countries",2011,8.601961
+"Upper-middle-income countries",2012,9.236292
+"Upper-middle-income countries",2013,9.458383
+"Upper-middle-income countries",2014,10.130801
+"Upper-middle-income countries",2015,10.652797
+"Upper-middle-income countries",2016,11.289898
+"Upper-middle-income countries",2017,11.720026
+"Upper-middle-income countries",2018,12.33756
+"Upper-middle-income countries",2019,13.013005
+"Upper-middle-income countries",2020,13.661824
+"Upper-middle-income countries",2021,14.001962
+"Upper-middle-income countries",2022,14.935202
+"Upper-middle-income countries",2023,15.268817
+"Upper-middle-income countries",2024,16.679878
+"Uzbekistan",1990,3.561631
+"Uzbekistan",1991,3.277828
+"Uzbekistan",1992,3.6015365
+"Uzbekistan",1993,4.0488334
+"Uzbekistan",1994,3.9809291
+"Uzbekistan",1995,3.3980918
+"Uzbekistan",1996,3.4791083
+"Uzbekistan",1997,3.104103
+"Uzbekistan",1998,3.0929012
+"Uzbekistan",1999,2.7253523
+"Uzbekistan",2000,2.7503598
+"Uzbekistan",2001,2.7930737
+"Uzbekistan",2002,2.778143
+"Uzbekistan",2003,3.5324366
+"Uzbekistan",2004,3.172221
+"Uzbekistan",2005,3.2978096
+"Uzbekistan",2006,2.986139
+"Uzbekistan",2007,3.0862498
+"Uzbekistan",2008,2.2145233
+"Uzbekistan",2009,3.2530093
+"Uzbekistan",2010,4.0692954
+"Uzbekistan",2011,2.6998203
+"Uzbekistan",2012,3.0196328
+"Uzbekistan",2013,2.9448645
+"Uzbekistan",2014,2.7847326
+"Uzbekistan",2015,2.826822
+"Uzbekistan",2016,3.3193383
+"Uzbekistan",2017,3.6982188
+"Uzbekistan",2018,2.729526
+"Uzbekistan",2019,2.959554
+"Uzbekistan",2020,2.293124
+"Uzbekistan",2021,2.1671228
+"Uzbekistan",2022,2.3873246
+"Uzbekistan",2023,3.1044497
+"Uzbekistan",2024,4.581725
+"Venezuela",1990,17.209902
+"Venezuela",1991,20.633026
+"Venezuela",1992,20.22795
+"Venezuela",1993,20.537819
+"Venezuela",1994,20.43435
+"Venezuela",1995,19.89993
+"Venezuela",1996,21.391918
+"Venezuela",1997,21.523392
+"Venezuela",1998,21.702492
+"Venezuela",1999,23.347404
+"Venezuela",2000,22.962221
+"Venezuela",2001,20.704798
+"Venezuela",2002,20.257225
+"Venezuela",2003,22.800236
+"Venezuela",2004,23.592545
+"Venezuela",2005,24.797512
+"Venezuela",2006,23.661259
+"Venezuela",2007,22.9629
+"Venezuela",2008,23.217276
+"Venezuela",2009,22.61235
+"Venezuela",2010,21.15139
+"Venezuela",2011,21.631054
+"Venezuela",2012,20.228285
+"Venezuela",2013,20.391525
+"Venezuela",2014,20.501318
+"Venezuela",2015,19.806223
+"Venezuela",2016,18.015179
+"Venezuela",2017,20.355003
+"Venezuela",2018,22.649826
+"Venezuela",2019,24.050093
+"Venezuela",2020,32.081184
+"Venezuela",2021,28.157299
+"Venezuela",2022,26.4843
+"Venezuela",2023,25.759012
+"Venezuela",2024,25.840307
+"Vietnam",1990,19.58081
+"Vietnam",1991,22.676071
+"Vietnam",1992,23.761398
+"Vietnam",1993,22.91678
+"Vietnam",1994,23.81971
+"Vietnam",1995,23.467438
+"Vietnam",1996,23.224747
+"Vietnam",1997,19.526443
+"Vietnam",1998,17.157963
+"Vietnam",1999,20.616985
+"Vietnam",2000,19.10712
+"Vietnam",2001,21.060719
+"Vietnam",2002,19.06628
+"Vietnam",2003,18.34503
+"Vietnam",2004,14.007817
+"Vietnam",2005,12.157633
+"Vietnam",2006,15.765579
+"Vietnam",2007,16.349266
+"Vietnam",2008,15.181914
+"Vietnam",2009,17.053614
+"Vietnam",2010,13.930893
+"Vietnam",2011,18.079273
+"Vietnam",2012,22.488022
+"Vietnam",2013,22.934511
+"Vietnam",2014,22.221386
+"Vietnam",2015,17.797033
+"Vietnam",2016,18.652882
+"Vietnam",2017,23.116835
+"Vietnam",2018,19.655489
+"Vietnam",2019,14.914143
+"Vietnam",2020,17.27617
+"Vietnam",2021,22.160095
+"Vietnam",2022,25.312202
+"Vietnam",2023,21.387896
+"Vietnam",2024,21.53411
+"Western Africa (EI)",1990,13.700499
+"Western Africa (EI)",1991,14.968252
+"Western Africa (EI)",1992,14.240533
+"Western Africa (EI)",1993,13.559438
+"Western Africa (EI)",1994,13.562372
+"Western Africa (EI)",1995,13.825205
+"Western Africa (EI)",1996,13.26003
+"Western Africa (EI)",1997,13.589518
+"Western Africa (EI)",1998,10.591284
+"Western Africa (EI)",1999,12.404459
+"Western Africa (EI)",2000,12.366515
+"Western Africa (EI)",2001,11.550045
+"Western Africa (EI)",2002,11.099838
+"Western Africa (EI)",2003,10.07618
+"Western Africa (EI)",2004,10.0314
+"Western Africa (EI)",2005,10.329687
+"Western Africa (EI)",2006,9.990559
+"Western Africa (EI)",2007,8.5154295
+"Western Africa (EI)",2008,9.012157
+"Western Africa (EI)",2009,9.720729
+"Western Africa (EI)",2010,10.192237
+"Western Africa (EI)",2011,8.872848
+"Western Africa (EI)",2012,8.335193
+"Western Africa (EI)",2013,7.661615
+"Western Africa (EI)",2014,7.4436436
+"Western Africa (EI)",2015,5.829681
+"Western Africa (EI)",2016,6.8004236
+"Western Africa (EI)",2017,6.6094074
+"Western Africa (EI)",2018,6.644433
+"Western Africa (EI)",2019,7.15215
+"Western Africa (EI)",2020,7.043218
+"Western Africa (EI)",2021,6.6347713
+"Western Africa (EI)",2022,6.963894
+"Western Africa (EI)",2023,7.748885
+"Western Africa (EI)",2024,7.9423223
+"World",1990,6.795954
+"World",1991,6.917012
+"World",1992,6.902818
+"World",1993,7.2510247
+"World",1994,7.2316523
+"World",1995,7.4576488
+"World",1996,7.3469806
+"World",1997,7.43751
+"World",1998,7.482252
+"World",1999,7.4507895
+"World",2000,7.4256287
+"World",2001,7.1826315
+"World",2002,7.1862054
+"World",2003,6.975092
+"World",2004,7.1525755
+"World",2005,7.191536
+"World",2006,7.3385572
+"World",2007,7.383397
+"World",2008,7.8546634
+"World",2009,8.16082
+"World",2010,8.369888
+"World",2011,8.548672
+"World",2012,8.962558
+"World",2013,9.367213
+"World",2014,9.732479
+"World",2015,10.000407
+"World",2016,10.430926
+"World",2017,10.793239
+"World",2018,11.201657
+"World",2019,11.650606
+"World",2020,12.780913
+"World",2021,12.861119
+"World",2022,13.503552
+"World",2023,13.942838
+"World",2024,14.822139
