@@ -10,7 +10,7 @@ An interactive R Shiny dashboard for visualizing the share of primary energy con
 
 ## 🚀 Live Demo
 
-**[View the live application here](https://YOUR-USERNAME.shinyapps.io/YOUR-APP-NAME/)**
+**[View the live application here](https://saurabhkirve.shinyapps.io/renewable-dashboard/)**
 
 *(Replace the link above with your actual shinyapps.io URL after deployment)*
 
@@ -18,9 +18,10 @@ An interactive R Shiny dashboard for visualizing the share of primary energy con
 
 ## 📸 Screenshot
 
-![Application Screenshot](https://i.imgur.com/your-screenshot-name.png)
+![Application Screenshot](<img width="1896" height="888" alt="image" src="https://github.com/user-attachments/assets/06aad58c-0aa8-4b69-bc9d-e743d758fb51" />
+)
 
-*(Replace the link above with a URL to a screenshot of your application)*
+
 
 ---
 
