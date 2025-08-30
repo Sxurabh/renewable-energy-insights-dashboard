@@ -12,7 +12,7 @@ An interactive R Shiny dashboard for visualizing the share of primary energy con
 
 **[View the live application here](https://saurabhkirve.shinyapps.io/renewable-dashboard/)**
 
-*(Replace the link above with your actual shinyapps.io URL after deployment)*
+
 
 ---
 
@@ -69,7 +69,7 @@ To run this application on your local machine, follow these steps.
 
 1.  **Clone the repository** (or download the source code):
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/Sxurabh/renewable-energy-insights-dashboard.git]
     ```
 
 2.  **Open the project** in RStudio by opening the `app.R` file.
