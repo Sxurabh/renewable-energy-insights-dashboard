@@ -18,8 +18,8 @@ An interactive R Shiny dashboard for visualizing the share of primary energy con
 
 ## 📸 Screenshot
 
-![Application Screenshot](<img width="1896" height="888" alt="image" src="https://github.com/user-attachments/assets/06aad58c-0aa8-4b69-bc9d-e743d758fb51" />
-)
+<img width="1896" height="888" alt="image" src="https://github.com/user-attachments/assets/15c6fb97-c46d-4ad5-99a1-8c1a21afbecd" />
+
 
 
 
